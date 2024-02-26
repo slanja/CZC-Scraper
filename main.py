@@ -24,6 +24,7 @@ def main():
         "name": [],
         "description": [],
         "price": [],
+        "stock": []
     })
 
     cookies = driver.find_element(By.XPATH, "/html/body/div[3]/div/div[2]/button[1]")
@@ -56,13 +57,17 @@ def main():
         try: price = driver.find_elements(By.XPATH, "/html/body/div[2]/div[3]/div[1]/div[2]/div/div[10]/div/div[2]/div[2]/div/div/span/span[2]")[i].text
         except: price = ""
 
+        try: stock = driver.find_elements(By.XPATH, "/html/body/div[2]/div[3]/div[1]/div[2]/div/div[10]/div/div[2]/div[4]/span[2]/span")[i].text
+        except: stock = "0"
+
         print(id)
         print(name)
         print(description)
         print(price)
+        print(stock)
         print(" ")
 
-        df.loc[i] = [id, name, description, price]
+        df.loc[i] = [id, name, description, price, stock]
 
 
     df.to_csv('data.csv', index=False)
