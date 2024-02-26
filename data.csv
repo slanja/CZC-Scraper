@@ -1,400 +1,624 @@
-id,name,description,price
-364466,"GIGABYTE GeForce RTX 3060 GAMING OC 8G LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1807 MHz, 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",7 089 Kč
-377628,"GIGABYTE GeForce RTX 4060 GAMING OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 789 Kč
-307106,"ASUS GeForce GT1030-2G-BRK, 2GB GDDR5","Kvalitní grafická karta, PCIe 3.0, architektura Pascal, aktivní chlazení, frekvence až 1506 MHz (boost v režimu OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DisplayPort, GPU Tweak II.",2 199 Kč
-379613,"GIGABYTE GeForce RTX 4060 Ti GAMING OC 16G, 16GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2595 MHz, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",13 489 Kč
-377630,"GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",7 999 Kč
-377629,"GIGABYTE GeForce RTX 4060 EAGLE OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 449 Kč
-388141,"GIGABYTE GeForce RTX 4060 D6 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový kompaktní design.",7 889 Kč
-374872,"GIGABYTE GeForce RTX 4060 Ti EAGLE, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2535 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",11 269 Kč
-213794,"ASUS GeForce PH-GT1030-O2G, 2GB GDDR5","Kvalitní grafická karta, PCIe 3.0, architektura Pascal, základní frekvence 1252/1278 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, NVIDIA GPU Boost 2.0, GPU Tweak II s XSplit Gamecaster.",2 690 Kč
-377626,"GIGABYTE GeForce RTX 4060 ELITE 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate.",10 289 Kč
-379612,"GIGABYTE GeForce RTX 4060 Ti AERO OC 16G, 16GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvenci 2595 MHz, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",13 989 Kč
-377627,"GIGABYTE GeForce RTX 4060 AERO OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 689 Kč
-374874,"GIGABYTE GeForce RTX 4060 Ti GAMING OC, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2580 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",11 989 Kč
-371945,"GIGABYTE GeForce RTX 4070 AERO OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvenci 2565 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",16 999 Kč
-392671,"Sapphire PULSE AMD RADEON RX 7600 XT 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x8, frekvence až 2539 MHz a až 2810 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",9 199 Kč
-393379,"ASUS ROG Strix GeForce RTX 4070 SUPER, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",21 990 Kč
-394503,"MSI GeForce RTX 4060 GAMING X NV EDITION 8G V1, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, limitovaná edice.",8 099 Kč
-375657,"MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, frekvence až 2550 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 990 Kč
-387873,"MSI GeForce RTX 4070 Ti VENTUS 3X E1 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim Extreme), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",19 990 Kč
-391041,"PALiT GeForce RTX 4070 Super Dual, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2475 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",15 999 Kč
-364662,"Sapphire AMD Radeon™ PULSE RX 7900 XTX, 24GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2330 MHz a až 2525 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",26 790 Kč
-328281,"ASUS GeForce GT730-SL-2GD5-BRK, 2GB GDDR5","Grafická karta s pasivním chladičem, PCIe rozhraní, frekvence 902 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.4.",1 999 Kč
-379622,"MSI GeForce RTX 4060 Ti GAMING X 16G, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 894 Kč
-324453,"GIGABYTE GeForce RTX 3070 EAGLE OC 8G ver. 2.0 LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4; napájení 1x 8-pin a 1x 6-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",13 290 Kč
-391355,"MSI GeForce RTX 4070 SUPER 12G VENTUS 2X WHITE OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 990 Kč
-386972,"MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 490 Kč
-369093,"PALiT GeForce RTX 4070 Ti GameRock, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design.",20 999 Kč
-362448,"GIGABYTE GeForce RTX 4080 16GB EAGLE, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2505 MHz, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",32 989 Kč
-388584,"MSI GeForce RTX 4060 GAMING X NV EDITION 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, limitovaná edice.",8 199 Kč
-310901,"MSI GeForce RTX 3060 VENTUS 2X 12G OC, LHR, 12GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",8 159 Kč
-378227,"MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, frekvence až 2505 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 099 Kč
-331124,"ASRock AMD Radeon™ RX 6600 Challenger D 8GB, 8GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2044 MHz a až 2491 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",5 499 Kč
-320677,"ASUS GeForce DUAL-RTX3060-O12G-V2, LHR, 12GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1867 MHz (OC Boost), 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",7 490 Kč
-329699,"Sapphire AMD Radeon™ PULSE RX 6600, 8GB GDDR6","Výkonná herní grafická karta s GPU AMD Radeon RX 6600, 8 GB GDDR6 paměti (rychlost paměti 14 Gb/s, 128 bit. sběrnice) s pokročilou architekturou AMD RDNA 2 se 1792 steam procesory a kmitočtem až 2491 MHz (boost) / až 2044 MHz (game), Infinity Cache 32 MB. Podporuje DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, Hardware Raytracing. Rozhraní PCI-Express 4.0, 1x HDMI, 3x DisplayPort.",5 990 Kč
-382938,"Sapphire PULSE AMD Radeon™ RX 7800 XT GAMING 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2124 MHz a až 2430 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 990 Kč
-314204,"ASRock Radeon RX 6700 XT Challenger D 12GB, 12GB GDDR6","Vysoce výkonná herní grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2424 MHz a až 2581 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",9 089 Kč
-391353,"MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 499 Kč
-382935,"Sapphire NITRO+ AMD Radeon™ RX 7800 XT 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2254 MHz a až 2565 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",15 490 Kč
-389938,"MSI GeForce GTX 1650 D6 VENTUS XS OCV3, 4GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1620 MHz (boost), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI 2.0b, 1x DisplayPort 1.4a, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",3 999 Kč
-371733b5,"PALiT GeForce RTX 4070 Dual, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2475 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",12 639 Kč
-308704,"PALiT GeForce RTX 3060 Dual, LHR, 12GB GDDR6","Výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1777 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",6 999 Kč
-377625,"PALiT GeForce RTX 4060 Dual, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2460 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",7 599 Kč
-382946,"Sapphire PULSE AMD Radeon™ RX 7700 XT GAMING 12GB, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2171 MHz a až 2544 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",12 090 Kč
-391352,"MSI GeForce RTX 4070 SUPER 12G GAMING X SLIM WHITE, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",19 739 Kč
-307913,"ASUS AMD Radeon™ PH-RX550-4G-EVO, 4GB GDDR5","Výkonná herní grafická karta společnosti ASUS, PCIe 3.0, frekvence 1183 MHz, 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI, 1x DisplayPort, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync, GPU Tweak II s XSplit Gamecaster.",2 799 Kč
-390164,"ASUS Dual GeForce GTX 1650 OC EVO, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1785 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",3 999 Kč
-328283,"ASUS GeForce GT730-4H-SL-2GD5, 2GB GDDR5","Grafická karta s pasivním chladičem, PCIe 2.0 rozhraní, frekvence až 927 MHz (OC boost), 2 GB GDDR5 paměti, 64-bit sběrnice, 4x HDMI, rozlišení max. 3840 x 2160, OpenGL 4.6.",1 899 Kč
-383770,"MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16G OC, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, frekvence až 2625 MHz (extrémní režim), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 326 Kč
-212978,"Sapphire AMD Radeon™ PULSE RX550 4GB, 4GB GDDR5","Výkonná herní grafická karta společnosti Sapphire, PCIe 3.0, frekvence 1206 MHz (boost), 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI, 1x DisplayPort, OpenGL 4.5, DirectX 12, AMD Eyefinity.",3 331 Kč
-374892,"ASUS Dual GeForce RTX 4060 Ti OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",10 490 Kč
-380621,"MSI GeForce RTX 3050 VENTUS 2X XS 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a, 1x DVI-D; napájení 1x 6-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",6 099 Kč
-391037,"PALiT GeForce RTX 4070 Ti Super GamingPro, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",22 990 Kč
-375306,"Sapphire PULSE AMD Radeon™ RX 7600 GAMING 8GB, 8GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x8, frekvence až 2355 MHz a až 2755 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",7 259 Kč
-225006,"GIGABYTE GT 1030 OC 2G, 2GB GDDR5","Kvalitní grafická karta Gigabyte GeForce GT 1030, PCIe 3.0, architektura Pascal, základní frekvence 1518/1544 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, OpenGL 4.5, DirectX 12.",1 999 Kč
-391870,"ASUS Dual Radeon RX 7600 V2 OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2715 MHz (režim OC boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 Px, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,5-slot design.",6 999 Kč
-391356,"MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 2X OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 190 Kč
-391065,"GIGABYTE GeForce RTX 4070 Ti SUPER GAMING OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2655 MHz, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 490 Kč
-382337,"MSI GeForce RTX 4070 VENTUS 3X E 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 145 Kč
-382668,"PALiT GeForce RTX 4060 Ti JetStream, 16GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (boost), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",11 989 Kč
-391064,"GIGABYTE GeForce RTX 4070 Ti SUPER AERO OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 990 Kč
-368290,"ASUS ROG Strix AMD Radeon™ RX 560 V2, 4GB GDDR5","Grafická karta společnosti ASUS, PCIe 3.0, frekvence 1199 MHz, 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI 2.0b, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync.",3 499 Kč
-366383,GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G,"Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1792 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",7 689 Kč
-386302,"GIGABYTE GeForce RTX 4060 OC Low Profile 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, nízký profil.",8 399 Kč
-385034,"MSI GeForce RTX 4060 VENTUS 2X WHITE 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, frekvence až 2505 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 631 Kč
-387284,"ASUS ProArt GeForce RTX 4060 OC edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",9 199 Kč
-383196,"ASRock AMD Radeon™ RX 7800 XT Phantom Gaming 16G OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2254 MHz a až 2565 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",14 990 Kč
-392357,"MSI GeForce RTX 4070 Ti SUPER 16G GAMING X SLIM WHITE, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 990 Kč
-345687b3,"Sapphire PULSE RADEON RX 6650 XT, 8GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, frekvence až 2410 MHz (až 2635 MHz boost), 8 GB GDDR6 paměti, rychlost paměti 17,5 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",6 483 Kč
-390988,"ASUS Dual GeForce RTX 4070 SUPER White OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",17 999 Kč
-391043,"ASUS ROG Strix GeForce RTX 4070 SUPER OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",21 799 Kč
-386971b1,"MSI GeForce RTX 4070 Ti GAMING X SLIM 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 139 Kč
-356685,"ASUS ROG Strix GeForce RTX 4090 OC Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",58 990 Kč
-374788,"PALiT GeForce RTX 4060 Ti Dual, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",10 599 Kč
-375651,"MSI AMD Radeon™ RX 6750 XT MECH 2X 12G V1, 12GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x16, frekvence až 2495 MHz a až 2600 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, napájení 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",11 765 Kč
-324453b7,"GIGABYTE GeForce RTX 3070 EAGLE OC 8G ver. 2.0 LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4; napájení 1x 8-pin a 1x 6-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",11 828 Kč
-391040,"PALiT GeForce RTX 4070 Super Dual OC, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 999 Kč
-391357,"MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 2X WHITE OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 990 Kč
-332860,"HP NVIDIA Quadro RTX A4000, 16GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 6144 CUDA, 192 Tensor jader, 48 RT jader, 16 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",29 975 Kč
-358275,"MSI GeForce RTX 4090 GAMING X TRIO 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",53 123 Kč
-375352,"GIGABYTE GeForce GT 710, 2GB GDDR5","Grafická karta v podání Gigabyte, rozhraní PCIe 2.0 x8, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x DVI-I, 1x HDMI, DirectX 12, OpenGL 4.5, nízký profil.",1 599 Kč
-312571,"GIGABYTE GeForce GT 1030 Low Profile D4 2G, 2GB GDDR4","Kvalitní grafická karta Gigabyte GeForce GT 1030, PCIe 3.0, architektura Pascal, frekvence až 1417 MHz (boost v režimu OC), 2 GB GDDR4 paměti s frekvencí 2 100 MHz (efektivně), 64-bit sběrnice, 1x HDMI, 1x DVI-D, nízko-profilový design, OpenGL 4.5, DirectX 12.",2 145 Kč
-306774b9,"Sapphire AMD Radeon™ PULSE RX 6800, 16GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 1950 MHz a až 2170 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",12 563 Kč
-383199,"ASRock AMD Radeon™ RX 7700 XT Phantom Gaming 12G OC, 12GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2276 MHz a až 2599 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 290 Kč
-379626,"ASUS ProArt GeForce RTX 4060 Ti OC edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2685 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",13 490 Kč
-391069,"GIGABYTE AORUS GeForce RTX 4070 SUPER MASTER 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate.",19 999 Kč
-361467b1,"GIGABYTE GeForce RTX 4080 16GB EAGLE OC, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",31 146 Kč
-392369,"ASUS TUF Gaming GeForce RTX 4070 Ti SUPER White OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",Cena nebyla dosud stanovena.
-324626b2,"PALiT GeForce RTX 3080 Ti GameRock, LHR, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1665 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 384-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 3x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, 2,7-slot design.",Cena nebyla dosud stanovena.
-390163,"ASUS GeForce GT 730 2GB DDR3 EVO, 2GB GDDR3","Grafická karta s pasivním chladičem, PCIe rozhraní, frekvence až 927 MHz (režim OC), 2 GB GDDR3 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.6.",2 593 Kč
-390184,"ASUS Dual Radeon RX 560, 4GB GDDR5","Grafická karta společnosti ASUS, PCIe 3.0, frekvence 1199 MHz, 4 GB GDDR5 paměti s rychlostí 6,8 Gb/s, 128-bit sběrnice, 2x DisplayPort 1.4, 1x HDMI 2.0b, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync.",
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+id,name,description,price,stock
+364466,"GIGABYTE GeForce RTX 3060 GAMING OC 8G LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1807 MHz, 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",7 089 Kč,"skladem
+1 kus"
+377628,"GIGABYTE GeForce RTX 4060 GAMING OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 789 Kč,"skladem
+1 kus"
+307106,"ASUS GeForce GT1030-2G-BRK, 2GB GDDR5","Kvalitní grafická karta, PCIe 3.0, architektura Pascal, aktivní chlazení, frekvence až 1506 MHz (boost v režimu OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DisplayPort, GPU Tweak II.",2 199 Kč,"skladem
+5 a více kusů"
+379613,"GIGABYTE GeForce RTX 4060 Ti GAMING OC 16G, 16GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2595 MHz, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",13 489 Kč,"skladem
+3 kusy"
+377630,"GIGABYTE GeForce RTX 4060 WINDFORCE OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",7 999 Kč,"skladem
+5 a více kusů"
+377629,"GIGABYTE GeForce RTX 4060 EAGLE OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 449 Kč,"skladem
+1 kus"
+388141,"GIGABYTE GeForce RTX 4060 D6 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový kompaktní design.",7 889 Kč,"skladem
+4 kusy"
+374872,"GIGABYTE GeForce RTX 4060 Ti EAGLE, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2535 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",11 269 Kč,"skladem
+2 kusy"
+213794,"ASUS GeForce PH-GT1030-O2G, 2GB GDDR5","Kvalitní grafická karta, PCIe 3.0, architektura Pascal, základní frekvence 1252/1278 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, NVIDIA GPU Boost 2.0, GPU Tweak II s XSplit Gamecaster.",2 690 Kč,"skladem
+2 kusy"
+377626,"GIGABYTE GeForce RTX 4060 ELITE 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate.",10 289 Kč,"skladem
+1 kus"
+379612,"GIGABYTE GeForce RTX 4060 Ti AERO OC 16G, 16GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvenci 2595 MHz, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",13 989 Kč,"skladem
+1 kus"
+377627,"GIGABYTE GeForce RTX 4060 AERO OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 689 Kč,"skladem
+2 kusy"
+374874,"GIGABYTE GeForce RTX 4060 Ti GAMING OC, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2580 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",11 989 Kč,"skladem
+2 kusy"
+371945,"GIGABYTE GeForce RTX 4070 AERO OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvenci 2565 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",16 999 Kč,"skladem
+2 kusy"
+394503,"MSI GeForce RTX 4060 GAMING X NV EDITION 8G V1, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, limitovaná edice.",8 099 Kč,"skladem
+5 a více kusů"
+392671,"Sapphire PULSE AMD RADEON RX 7600 XT 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x8, frekvence až 2539 MHz a až 2810 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",9 199 Kč,"skladem
+5 a více kusů"
+393379,"ASUS ROG Strix GeForce RTX 4070 SUPER, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",21 990 Kč,"skladem
+2 kusy"
+375657,"MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, frekvence až 2550 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 990 Kč,"skladem
+5 a více kusů"
+387873,"MSI GeForce RTX 4070 Ti VENTUS 3X E1 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim Extreme), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",19 990 Kč,"skladem
+5 a více kusů"
+391041,"PALiT GeForce RTX 4070 Super Dual, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2475 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",15 999 Kč,"skladem
+5 a více kusů"
+364662,"Sapphire AMD Radeon™ PULSE RX 7900 XTX, 24GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2330 MHz a až 2525 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",26 790 Kč,"skladem
+5 a více kusů"
+328281,"ASUS GeForce GT730-SL-2GD5-BRK, 2GB GDDR5","Grafická karta s pasivním chladičem, PCIe rozhraní, frekvence 902 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.4.",1 999 Kč,"skladem
+2 kusy"
+379622,"MSI GeForce RTX 4060 Ti GAMING X 16G, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 894 Kč,"skladem
+4 kusy"
+324453,"GIGABYTE GeForce RTX 3070 EAGLE OC 8G ver. 2.0 LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4; napájení 1x 8-pin a 1x 6-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",13 290 Kč,"skladem
+1 kus"
+391355,"MSI GeForce RTX 4070 SUPER 12G VENTUS 2X WHITE OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 990 Kč,"skladem
+5 a více kusů"
+386972,"MSI GeForce RTX 4070 Ti GAMING X SLIM WHITE 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 490 Kč,"skladem
+1 kus"
+369093,"PALiT GeForce RTX 4070 Ti GameRock, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design.",20 999 Kč,"skladem
+1 kus"
+362448,"GIGABYTE GeForce RTX 4080 16GB EAGLE, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2505 MHz, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",32 989 Kč,"skladem
+1 kus"
+388584,"MSI GeForce RTX 4060 GAMING X NV EDITION 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, limitovaná edice.",8 199 Kč,"skladem
+5 a více kusů"
+310901,"MSI GeForce RTX 3060 VENTUS 2X 12G OC, LHR, 12GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",8 159 Kč,"skladem
+5 a více kusů"
+378227,"MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, frekvence až 2505 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 099 Kč,"skladem
+5 a více kusů"
+331124,"ASRock AMD Radeon™ RX 6600 Challenger D 8GB, 8GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2044 MHz a až 2491 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",5 499 Kč,"skladem
+5 a více kusů"
+320677,"ASUS GeForce DUAL-RTX3060-O12G-V2, LHR, 12GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1867 MHz (OC Boost), 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",7 490 Kč,"skladem
+5 a více kusů"
+329699,"Sapphire AMD Radeon™ PULSE RX 6600, 8GB GDDR6","Výkonná herní grafická karta s GPU AMD Radeon RX 6600, 8 GB GDDR6 paměti (rychlost paměti 14 Gb/s, 128 bit. sběrnice) s pokročilou architekturou AMD RDNA 2 se 1792 steam procesory a kmitočtem až 2491 MHz (boost) / až 2044 MHz (game), Infinity Cache 32 MB. Podporuje DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, Hardware Raytracing. Rozhraní PCI-Express 4.0, 1x HDMI, 3x DisplayPort.",5 990 Kč,"skladem
+5 a více kusů"
+382938,"Sapphire PULSE AMD Radeon™ RX 7800 XT GAMING 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2124 MHz a až 2430 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 990 Kč,"skladem
+5 a více kusů"
+314204,"ASRock Radeon RX 6700 XT Challenger D 12GB, 12GB GDDR6","Vysoce výkonná herní grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2424 MHz a až 2581 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",9 089 Kč,"skladem
+5 a více kusů"
+391353,"MSI GeForce RTX 4070 SUPER 12G VENTUS 2X OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 499 Kč,"skladem
+5 a více kusů"
+382935,"Sapphire NITRO+ AMD Radeon™ RX 7800 XT 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2254 MHz a až 2565 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",15 490 Kč,"skladem
+3 kusy"
+389938,"MSI GeForce GTX 1650 D6 VENTUS XS OCV3, 4GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1620 MHz (boost), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI 2.0b, 1x DisplayPort 1.4a, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",3 999 Kč,"skladem
+5 a více kusů"
+308704,"PALiT GeForce RTX 3060 Dual, LHR, 12GB GDDR6","Výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1777 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",6 999 Kč,"skladem
+2 kusy"
+377625,"PALiT GeForce RTX 4060 Dual, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2460 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",7 599 Kč,"skladem
+5 a více kusů"
+382946,"Sapphire PULSE AMD Radeon™ RX 7700 XT GAMING 12GB, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2171 MHz a až 2544 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",12 090 Kč,"skladem
+5 a více kusů"
+371733b5,"PALiT GeForce RTX 4070 Dual, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2475 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",12 639 Kč,"skladem
+1 kus"
+390164,"ASUS Dual GeForce GTX 1650 OC EVO, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1785 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",3 999 Kč,"skladem
+1 kus"
+391352,"MSI GeForce RTX 4070 SUPER 12G GAMING X SLIM WHITE, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",19 739 Kč,"skladem
+5 a více kusů"
+328283,"ASUS GeForce GT730-4H-SL-2GD5, 2GB GDDR5","Grafická karta s pasivním chladičem, PCIe 2.0 rozhraní, frekvence až 927 MHz (OC boost), 2 GB GDDR5 paměti, 64-bit sběrnice, 4x HDMI, rozlišení max. 3840 x 2160, OpenGL 4.6.",1 899 Kč,"skladem
+5 a více kusů"
+307913,"ASUS AMD Radeon™ PH-RX550-4G-EVO, 4GB GDDR5","Výkonná herní grafická karta společnosti ASUS, PCIe 3.0, frekvence 1183 MHz, 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI, 1x DisplayPort, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync, GPU Tweak II s XSplit Gamecaster.",2 799 Kč,"skladem
+3 kusy"
+383770,"MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16G OC, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, frekvence až 2625 MHz (extrémní režim), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 326 Kč,"skladem
+2 kusy"
+212978,"Sapphire AMD Radeon™ PULSE RX550 4GB, 4GB GDDR5","Výkonná herní grafická karta společnosti Sapphire, PCIe 3.0, frekvence 1206 MHz (boost), 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI, 1x DisplayPort, OpenGL 4.5, DirectX 12, AMD Eyefinity.",3 331 Kč,"skladem
+2 kusy"
+374892,"ASUS Dual GeForce RTX 4060 Ti OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",10 490 Kč,"skladem
+5 a více kusů"
+380621,"MSI GeForce RTX 3050 VENTUS 2X XS 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a, 1x DVI-D; napájení 1x 6-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",6 099 Kč,"skladem
+5 a více kusů"
+391037,"PALiT GeForce RTX 4070 Ti Super GamingPro, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",22 990 Kč,"skladem
+5 a více kusů"
+391870,"ASUS Dual Radeon RX 7600 V2 OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2715 MHz (režim OC boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 Px, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,5-slot design.",6 999 Kč,"skladem
+5 a více kusů"
+375306,"Sapphire PULSE AMD Radeon™ RX 7600 GAMING 8GB, 8GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x8, frekvence až 2355 MHz a až 2755 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",7 259 Kč,"skladem
+4 kusy"
+225006,"GIGABYTE GT 1030 OC 2G, 2GB GDDR5","Kvalitní grafická karta Gigabyte GeForce GT 1030, PCIe 3.0, architektura Pascal, základní frekvence 1518/1544 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, OpenGL 4.5, DirectX 12.",1 999 Kč,"skladem
+4 kusy"
+391356,"MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 2X OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 190 Kč,"skladem
+5 a více kusů"
+382337,"MSI GeForce RTX 4070 VENTUS 3X E 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 145 Kč,"skladem
+1 kus"
+391065,"GIGABYTE GeForce RTX 4070 Ti SUPER GAMING OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2655 MHz, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 490 Kč,"skladem
+1 kus"
+382668,"PALiT GeForce RTX 4060 Ti JetStream, 16GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (boost), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",11 989 Kč,"skladem
+5 a více kusů"
+391064,"GIGABYTE GeForce RTX 4070 Ti SUPER AERO OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 990 Kč,"skladem
+1 kus"
+368290,"ASUS ROG Strix AMD Radeon™ RX 560 V2, 4GB GDDR5","Grafická karta společnosti ASUS, PCIe 3.0, frekvence 1199 MHz, 4 GB GDDR5 paměti s frekvencí 6000 MHz, 128-bit sběrnice, 1x DVI-D, 1x HDMI 2.0b, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync.",3 499 Kč,"skladem
+3 kusy"
+366383,GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G,"Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1792 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",7 689 Kč,"skladem
+1 kus"
+386302,"GIGABYTE GeForce RTX 4060 OC Low Profile 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design, nízký profil.",8 399 Kč,"skladem
+2 kusy"
+387284,"ASUS ProArt GeForce RTX 4060 OC edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",9 199 Kč,"skladem
+5 a více kusů"
+383196,"ASRock AMD Radeon™ RX 7800 XT Phantom Gaming 16G OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2254 MHz a až 2565 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",14 990 Kč,"skladem
+5 a více kusů"
+392357,"MSI GeForce RTX 4070 Ti SUPER 16G GAMING X SLIM WHITE, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",24 990 Kč,"skladem
+1 kus"
+345687b3,"Sapphire PULSE RADEON RX 6650 XT, 8GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, frekvence až 2410 MHz (až 2635 MHz boost), 8 GB GDDR6 paměti, rychlost paměti 17,5 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",6 483 Kč,"skladem
+1 kus"
+385034,"MSI GeForce RTX 4060 VENTUS 2X WHITE 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, frekvence až 2505 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 631 Kč,"skladem
+5 a více kusů"
+390988,"ASUS Dual GeForce RTX 4070 SUPER White OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",17 999 Kč,"skladem
+1 kus"
+391043,"ASUS ROG Strix GeForce RTX 4070 SUPER OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",21 799 Kč,"skladem
+3 kusy"
+386971b1,"MSI GeForce RTX 4070 Ti GAMING X SLIM 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 096 Kč,"skladem
+1 kus"
+391061,"GIGABYTE GeForce RTX 4080 SUPER WINDFORCE 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2550 MHz, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",27 699 Kč,"skladem
+1 kus"
+356685,"ASUS ROG Strix GeForce RTX 4090 OC Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",58 990 Kč,"skladem
+1 kus"
+374788,"PALiT GeForce RTX 4060 Ti Dual, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",10 599 Kč,"skladem
+5 a více kusů"
+375651,"MSI AMD Radeon™ RX 6750 XT MECH 2X 12G V1, 12GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x16, frekvence až 2495 MHz a až 2600 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, napájení 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",11 765 Kč,"skladem
+2 kusy"
+324453b7,"GIGABYTE GeForce RTX 3070 EAGLE OC 8G ver. 2.0 LHR, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4; napájení 1x 8-pin a 1x 6-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",11 828 Kč,"skladem
+1 kus"
+391040,"PALiT GeForce RTX 4070 Super Dual OC, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 999 Kč,"skladem
+5 a více kusů"
+391357,"MSI GeForce RTX 4070 Ti SUPER 16G VENTUS 2X WHITE OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",22 990 Kč,"skladem
+5 a více kusů"
+358275,"MSI GeForce RTX 4090 GAMING X TRIO 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",53 123 Kč,"skladem
+5 a více kusů"
+375352,"GIGABYTE GeForce GT 710, 2GB GDDR5","Grafická karta v podání Gigabyte, rozhraní PCIe 2.0 x8, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x DVI-I, 1x HDMI, DirectX 12, OpenGL 4.5, nízký profil.",1 599 Kč,"skladem
+2 kusy"
+312571,"GIGABYTE GeForce GT 1030 Low Profile D4 2G, 2GB GDDR4","Kvalitní grafická karta Gigabyte GeForce GT 1030, PCIe 3.0, architektura Pascal, frekvence až 1417 MHz (boost v režimu OC), 2 GB GDDR4 paměti s frekvencí 2 100 MHz (efektivně), 64-bit sběrnice, 1x HDMI, 1x DVI-D, nízko-profilový design, OpenGL 4.5, DirectX 12.",2 145 Kč,"skladem
+1 kus"
+306774b9,"Sapphire AMD Radeon™ PULSE RX 6800, 16GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 1950 MHz a až 2170 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",12 563 Kč,"skladem
+1 kus"
+383199,"ASRock AMD Radeon™ RX 7700 XT Phantom Gaming 12G OC, 12GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2276 MHz a až 2599 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 290 Kč,"skladem
+1 kus"
+379626,"ASUS ProArt GeForce RTX 4060 Ti OC edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2685 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",13 490 Kč,"skladem
+2 kusy"
+391069,"GIGABYTE AORUS GeForce RTX 4070 SUPER MASTER 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate.",19 999 Kč,"skladem
+1 kus"
+332860,"HP NVIDIA Quadro RTX A4000, 16GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 6144 CUDA, 192 Tensor jader, 48 RT jader, 16 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",29 975 Kč,"skladem
+5 a více kusů"
+361467b1,"GIGABYTE GeForce RTX 4080 16GB EAGLE OC, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",31 146 Kč,"skladem
+1 kus"
+392369,"ASUS TUF Gaming GeForce RTX 4070 Ti SUPER White OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",Cena nebyla dosud stanovena.,zahájení prodeje: zjišťujeme
+324626b2,"PALiT GeForce RTX 3080 Ti GameRock, LHR, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1665 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 384-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 3x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, 2,7-slot design.",Cena nebyla dosud stanovena.,zahájení prodeje: zjišťujeme
+390163,"ASUS GeForce GT 730 2GB DDR3 EVO, 2GB GDDR3","Grafická karta s pasivním chladičem, PCIe rozhraní, frekvence až 927 MHz (režim OC), 2 GB GDDR3 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.6.",2 593 Kč,"skladem
+5 a více kusů"
+390184,"ASUS Dual Radeon RX 560, 4GB GDDR5","Grafická karta společnosti ASUS, PCIe 3.0, frekvence 1199 MHz, 4 GB GDDR5 paměti s rychlostí 6,8 Gb/s, 128-bit sběrnice, 2x DisplayPort 1.4, 1x HDMI 2.0b, OpenGL 4.5, DirectX 12, AMD Eyefinity, AMD FreeSync.",3 210 Kč,"skladem
+4 kusy"
+308327b7,"PALiT GeForce GTX 1650 GamingPro, 4GB GDDR6","Výkonná malá herní grafická karta v podání PALiT, rozhraní PCIe 3.0 x16, architektura Turing, frekvence až 1590 MHz (boost), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI 2.0b, 2x DisplayPort 1.4a, OpenGL 4.6, DirectX 12, VR Ready, NVIDIA: Ansel a GPU Boost.",3 550 Kč,"skladem
+1 kus"
+336655b1,"PALiT GeForce RTX 3050 StormX, 8GB GDDR6","Herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1777 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",7 481 Kč,"skladem
+1 kus"
+313001b3,"Gainward GeForce GTX 1660 Super Ghost, 6GB GDDR6","Vysoce výkonná herní grafická karta v podání Gainward, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1785 MHz (boost), 6 GB GDDR6 paměti, 192-bit sběrnice, 1x DVI-D, 1x HDMI, 1x DisplayPort, OpenGL 4.6, DirectX 12, VR Ready, NVIDIA: Ansel a G-Sync.",7 568 Kč,"skladem
+1 kus"
+375793,"GIGABYTE AMD Radeon™ RX 7600 Gaming OC 8G, 8GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x8, frekvence až 2355 MHz a až 2755 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 2x HDMI 2.1a, 2x DisplayPort 1.4a, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",7 849 Kč,"skladem
+1 kus"
+335209b2,"GIGABYTE Radeon RX 6600 Eagle 8G, 8GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 1.4a, napájení: 1x 8-pin konektor; OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",9 602 Kč,"skladem
+1 kus"
+334951b1,"MSI AMD Radeon™ RX 6600 ARMOR 8G, 8GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x8, frekvence až 2044 MHz a až 2491 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, napájení 1x 8-pin, OpenGL 4.6, DirectX 12, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",9 909 Kč,"skladem
+1 kus"
+301406b9,"PALiT GeForce RTX 3070 GamingPro, LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1725 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",10 741 Kč,"skladem
+1 kus"
+312479b7,"Sapphire Radeon NITRO+ RX 6700 XT 12G OC Gaming, 12GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2622 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",11 301 Kč,"skladem
+1 kus"
+345682b8,"Sapphire NITRO+ RADEON RX 6750 XT, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, frekvence až 2554 MHz (až 2623 MHz boost),12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",11 664 Kč,"skladem
+1 kus"
+375653b3,"MSI AMD Radeon™ RX 6800 GAMING Z TRIO 16G V1, 16GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x16, frekvence až 1925 MHz a až 2155 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4a, napájení 3x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",12 021 Kč,"skladem
+1 kus"
+312479b9,"Sapphire Radeon NITRO+ RX 6700 XT 12G OC Gaming, 12GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2622 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",12 391 Kč,"skladem
+1 kus"
+323704b8,"MSI GeForce RTX 3060 Ti GAMING Z TRIO 8G LHR, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1845 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12; verze s omezeným výkonem pro těžbu kryptoměn.",12 729 Kč,"skladem
+1 kus"
+382940,"Sapphire NITRO+ AMD Radeon RX 7700 XT GAMING 12G, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2276 MHz a až 2599 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 132 Kč,"skladem
+1 kus"
+383200,"ASRock AMD Radeon™ RX 7700 XT Steel Legend 12GB OC, 12GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2276 MHz a až 2599 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",13 190 Kč,"skladem
+1 kus"
+391104,"MSI GeForce RTX 4060 Ti GAMING X SLIM WHITE 16G, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",14 124 Kč,"skladem
+2 kusy"
+383198,"ASRock AMD Radeon™ RX 7800 XT Challenger 16GB OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2169 MHz a až 2475 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",14 290 Kč,"skladem
+2 kusy"
+384843,"ASRock Radeon RX 6800 XT Phantom Gaming 16GB OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2065 MHz a až 2310 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing, Polychrome SYNC.",14 290 Kč,"skladem
+1 kus"
+383197,"ASRock AMD Radeon™ RX 7800 XT Steel Legend 16GB OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2213 MHz a až 2520 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",15 290 Kč,"skladem
+1 kus"
+324596b1,"ASUS GeForce TUF-RTX3070Ti-O8G-GAMING-LHR, 8GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1815 MHz (OC boost), 8 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 3x DisplayPort 1.4a (max. 4 monitory); napájení 2x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12, 2,7-slot design; verze s omezeným výkonem pro těžbu kryptoměn.",15 479 Kč,"skladem
+1 kus"
+309143b1,"GIGABYTE AMD Radeon™ RX 6900 XT GAMING OC 16G, 16GB GDDR6","Extrémně výkonná herní grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2050 MHz a až 2285 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 1.4a, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",15 949 Kč,"skladem
+1 kus"
+306911b3,"PALiT GeForce RTX 3070 GameRock, LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1725 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",15 992 Kč,"skladem
+1 kus"
+333680b2,"GIGABYTE GeForce RTX 3060 TI GAMING OC PRO-8GD (rev.3.0) LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1770 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin a 1x 6-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",16 592 Kč,"skladem
+1 kus"
+306911b4,"PALiT GeForce RTX 3070 GameRock, LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1725 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",16 592 Kč,"skladem
+1 kus"
+297081b7,"PALiT GeForce RTX3080 GamingPro, LHR, 10GB GDDR6X","Extrémně výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1710 MHz, 10 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 320-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",16 826 Kč,"skladem
+1 kus"
+391070,"GIGABYTE GeForce RTX 4070 SUPER AERO OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",18 890 Kč,"skladem
+2 kusy"
+333680b3,"GIGABYTE GeForce RTX 3060 TI GAMING OC PRO-8GD (rev.3.0) LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1770 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin a 1x 6-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",19 990 Kč,"skladem
+1 kus"
+316502b2,"PNY NVIDIA Quadro RTX 4000, 8GB GDDR6","Výkonná grafická karta pro pracovní stanice, rozhraní PCIe 3.0 x16, architektura Turing, 2304 CUDA, 288 Tensor jader, 36 RT jader, 8 GB GDDR6 paměti, 256-bit sběrnice, 3x DisplayPort, VirtualLink, maximální rozlišení 3x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora.",23 249 Kč,"skladem
+1 kus"
+302739b6,"PALiT GeForce RTX3080 GameRock, LHR, 10GB GDDR6X","Extrémně výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1755 MHz, 10 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 320-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 3x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",23 519 Kč,"skladem
+1 kus"
+386305,"GIGABYTE GeForce RTX 4070 Ti AERO OC V2 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence 2640 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",23 889 Kč,"skladem
+1 kus"
+326155b1,"GIGABYTE GeForce RTX 3080 Ti XTREME WATERFORCE WB 12G, LHR, 12GB GDDR6X","Grafická karta v podání Gigabyte, pro zapojení do obvodu kapalinového chlazení, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1770 MHz, 12 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 384-bit sběrnice, konektory: 2x HDMI 2.1, 1x HDMI 2.0, 3x DisplayPort 1.4a; napájení 2x 8-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",25 189 Kč,"skladem
+1 kus"
+380160,"ASUS ProArt GeForce RTX 4070 Ti OC edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2760 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",25 990 Kč,"skladem
+2 kusy"
+366035b1,"ASRock AMD Radeon™ RX 7900 XTX Phantom Gaming 24GB OC, 24GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2455 MHz a až 2615 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",26 671 Kč,"skladem
+1 kus"
+307391b2,"GIGABYTE GeForce RTX 3090 AORUS XTREME WATERFORCE WB 24G, 24GB GDDR6X","Extrémně výkonná herní grafická karta v podání Gigabyte, pro zapojení do obvodu kapalinového chlazení, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1785 MHz, 24 GB GDDR6X paměti, rychlost paměti 19,5 Gb/s, 384-bit sběrnice, konektory: 2x HDMI 2.1, 1x HDMI 2.0, 3x DisplayPort 1.4a; napájení 2x 8-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate, NVIDIA NVLink.",28 789 Kč,"skladem
+1 kus"
+363413b3,"MSI GeForce RTX 4080 16GB GAMING X TRIO, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim) 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slotový design.",30 577 Kč,"skladem
+1 kus"
+297083b5,"PALiT GeForce RTX3090 GamingPro, 24GB GDDR6X","Extrémně výkonná herní grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1695 MHz, 24 GB GDDR6X paměti, rychlost paměti 19,5 Gb/s, 384-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,7-slot design.",33 619 Kč,"skladem
+1 kus"
+374984b1,"ASUS GeForce RTX 4080 Noctua OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, ventilátory Noctua, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4,3-slot design, součástí držák karty.",37 191 Kč,"skladem
+1 kus"
+374984,"ASUS GeForce RTX 4080 Noctua OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, ventilátory Noctua, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4,3-slot design, součástí držák karty.",39 990 Kč,"skladem
+1 kus"
+302137b1,"GIGABYTE GeForce AORUS RTX 3090 MASTER 24G, 24GB GDDR6X","Extrémně výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1785 MHz, 24 GB GDDR6X paměti, rychlost paměti 19,5 Gb/s, 384-bit sběrnice, konektory: 3x HDMI 2.1, 3x DisplayPort 1.4; napájení 2x 8-pin; zabudovaný malý LCD monitor, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate, NVIDIA NVLink.",45 039 Kč,"skladem
+1 kus"
+391348b1,"MSI GeForce RTX 4090 GAMING X SLIM 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",47 547 Kč,"skladem
+1 kus"
+356700,"PALiT GeForce RTX 4090 GameRock, 24GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2520 MHz (boost), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin (12VHPWR) nebo 3x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design.",47 989 Kč,"skladem
+5 a více kusů"
+375340,"GIGABYTE GeForce RTX 4090 AERO OC 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence 2535 MHz, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",50 990 Kč,"skladem
+1 kus"
+391348,"MSI GeForce RTX 4090 GAMING X SLIM 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",51 211 Kč,"skladem
+3 kusy"
+392117,"MSI GeForce RTX 4090 VENTUS 3X E 24G OC, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (extrémní režim), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",51 562 Kč,"skladem
+5 a více kusů"
+386959b1,"Asus ROG Strix GeForce RTX 4090 OC EVA-02 Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty; verze inspirovaná anime Neon Genesis Evangelion.",55 791 Kč,"skladem
+1 kus"
+378752,"GIGABYTE AORUS GeForce RTX 4090 GAMING BOX, externí grafická karta","Externí grafická karta, kapalinové chlazení, ideální pro: hraní virtuální reality, vývoj AI a strojové učení; Thunderbolt 3 plug and play, architektura Ada Lovelace, frekvence 2520 MHz, 24 GB GDDR6X, rychlost paměti 21 Gb/s, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a, 1x Thunderbolt 3 typ-C, 3x USB 3.2 Gen1 (2x typ-A a 1x typ-C), 1x LAN; maximální digitální rozlišení 7680 x 4320, 850 W zdroj s externím napájením.",56 990 Kč,"skladem
+1 kus"
+367811,"PALiT GeForce RTX 4070 Ti GamingPro, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin (12VHPWR) nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",21 790 Kč,"skladem
+dodání do 2 dnů"
+321809,"GIGABYTE GeForce RTX 3060 GAMING OC 12G (rev.2.0), LHR, 12GB GDDR6","Výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1837 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate.",8 089 Kč,"skladem
+dodání do 2 dnů"
+371956,"GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2490 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",15 390 Kč,"skladem
+dodání do 2 dnů"
+371955,"GIGABYTE GeForce RTX 4070 GAMING OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2565 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",16 890 Kč,"skladem
+dodání do 2 dnů"
+213795,"ASUS GeForce GT1030-SL-2G-BRK, 2GB GDDR5","Kvalitní grafická karta, PCIe 3.0, architektura Pascal, pasivní chlazení, základní frekvence 1228/1266 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, GPU Tweak II s XSplit Gamecaster.",2 279 Kč,"skladem
+dodání do 2 dnů"
+374869,"GIGABYTE GeForce RTX 4060 Ti EAGLE OC, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2550 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",11 190 Kč,"skladem
+dodání do 2 dnů"
+374863,"GIGABYTE GeForce RTX 4060 Ti AERO OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvenci 2580 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",12 189 Kč,"skladem
+dodání do 2 dnů"
+374866,"GIGABYTE GeForce RTX 4060 Ti ELITE, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence 2655 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate.",12 789 Kč,"skladem
+dodání do 2 dnů"
+371951,"GIGABYTE GeForce RTX 4070 EAGLE OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2505 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",16 690 Kč,"skladem
+dodání do 2 dnů"
+371947,"GIGABYTE AORUS GeForce RTX 4070 MASTER 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2595 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate.",19 290 Kč,"skladem
+dodání do 2 dnů"
+393408,"ASRock Radeon RX 7600 XT Challenger 16GB OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x8, frekvence až 2516 MHz a až 2799 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",9 990 Kč,"skladem
+dodání do 2 dnů"
+393407,"ASRock Radeon RX 7600 XTSteel Legend 16GB OC, 16GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x8, frekvence až 2539 MHz a až 2810 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",10 590 Kč,"skladem
+dodání do 2 dnů"
+382471,"GIGABYTE AMD Radeon™ RX 7800 XT GAMING OC 16G, 16GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2124 MHz a až 2565 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",14 589 Kč,"skladem
+dodání do 2 dnů"
+390989,"ASUS Dual GeForce RTX 4070 SUPER OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",17 999 Kč,"skladem
+dodání do 2 dnů"
+385030,"MSI GeForce RTX 4070 VENTUS 2X E 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",15 395 Kč,"skladem
+na objednání"
+368289,"ASUS GeForce GT 730 BRK EVO, 2GB GDDR3","Grafická karta s aktivním chladičem, PCIe rozhraní, frekvence až 927 MHz (OC boost), 2 GB GDDR3 paměti, 64-bit sběrnice, 1x HDMI 1.4b, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.6.",1 499 Kč,"skladem
+1 kus"
+391073,"GIGABYTE GeForce RTX 4070 SUPER EAGLE OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2535 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",17 590 Kč,"skladem
+dodání do 2 dnů"
+364365,"MSI GeForce RTX 3060 VENTUS 2X 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",7 190 Kč,"skladem
+dodání do 2 dnů"
+372213,"ASUS Dual GeForce RTX 4070 OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",15 799 Kč,"skladem
+dodání do 2 dnů"
+379623,"MSI GeForce RTX 4060 Ti VENTUS 3X 16G OC, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (extrémní režim), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 495 Kč,"skladem
+dodání do 2 dnů"
+364663,"Sapphire AMD Radeon™ PULSE RX 7900 XT, 20GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2075 MHz a až 2450 MHz boost, 20 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 320-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",20 790 Kč,"skladem
+na objednání"
+364661,"Sapphire AMD Radeon™ NITRO+ RX 7900 XTX Vapor-X, 24GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2510 MHz a až 2680 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",29 990 Kč,"skladem
+dodání do 2 dnů"
+375486,"ASRock AMD Radeon™ RX 7600 Phantom Gaming 8G OC, 8GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x8, frekvence až 2355 MHz a až 2755 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",8 490 Kč,"skladem
+dodání do 2 dnů"
+378382,"ASUS Dual GeForce RTX 4060 O8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",8 699 Kč,"skladem
+dodání do 2 dnů"
+382936,"Sapphire PURE AMD Radeon™ RX 7800 XT GAMING OC 16GB, 16GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2169 MHz a až 2475 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",15 443 Kč,"skladem
+dodání do 2 dnů"
+383193,"ASUS TUF Gaming AMD Radeon™ RX 7800 XT OC Edition, 16GB GDDR6","Grafická karta společnosti ASUS, PCIe 4.0 x16, základní frekvence 2213 MHz a až 2565 MHz OC boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",15 990 Kč,"skladem
+dodání do 2 dnů"
+225004,"GIGABYTE GT 1030 Low Profile 2G, 2GB GDDR5","Kvalitní grafická karta Gigabyte GeForce GT 1030, PCIe 3.0, architektura Pascal, základní frekvence 1227/1252 MHz (režim Gaming/OC), 2 GB GDDR5 paměti s frekvencí 6 008 MHz, 64-bit sběrnice, 1x HDMI, 1x DVI-D, nízko-profilový design, OpenGL 4.5, DirectX 12.",2 472 Kč,"skladem
+dodání do 2 dnů"
+382474,"GIGABYTE AMD Radeon™ RX 7700 XT GAMING OC 12G, 12GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2171 MHz a až 2599 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",12 490 Kč,"skladem
+dodání do 2 dnů"
+390542,"ASUS ROG Strix GeForce RTX 4060 Ti, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slotový design.",14 799 Kč,"skladem
+dodání do 2 dnů"
+372215,"ASUS Dual GeForce RTX 4070 OC White Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",15 490 Kč,"skladem
+dodání do 2 dnů"
+372211,"ASUS TUF Gaming GeForce RTX 4070 OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",17 990 Kč,"skladem
+dodání do 2 dnů"
+390165,"ASUS Dual GeForce RTX 4060 White OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",8 699 Kč,"skladem
+dodání do 2 dnů"
+387286,"ASUS ProArt GeForce RTX 4070 OC edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",16 490 Kč,"skladem
+dodání do 2 dnů"
+382336,"MSI GeForce RTX 4070 GAMING X SLIM WHITE 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",17 440 Kč,"skladem
+na objednání"
+386971,"MSI GeForce RTX 4070 Ti GAMING X SLIM 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",21 469 Kč,"skladem
+2 kusy"
+357856,"MSI GeForce RTX 4090 SUPRIM X 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625/2640 MHz (herní a tichý/extrémní režim), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",53 490 Kč,"skladem
+dodání do 2 dnů"
+366165,"ASUS ROG Strix GeForce RTX 4090 White OC Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",56 990 Kč,"skladem
+dodání do 2 dnů"
+343969,"ASUS AMD Radeon™ PH-RX6400-4G, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2321 MHz (režim OC boost), 4 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 64-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a; max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2-slotový design.",3 999 Kč,"skladem
+dodání do 2 dnů"
+336487,"MSI AMD Radeon™ RX 6500 XT MECH 2X 4G, 4GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0, 4 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 64-bit sběrnice, 1x HDMI 2.1, 1x DisplayPort 1.4a, napájení 1x 6-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, DirectX Raytracing.",5 086 Kč,"skladem
+na objednání"
+336738,"ASUS GeForce DUAL-RTX3050-O8G, LHR, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",6 990 Kč,"skladem
+dodání do 2 dnů"
+377341,"MSI GeForce RTX 4060 Ti VENTUS 3X 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",11 934 Kč,"skladem
+dodání do 2 dnů"
+379624,"ASUS Dual GeForce RTX 4060 Ti OC Edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",13 290 Kč,"skladem
+dodání do 2 dnů"
+365439,"GIGABYTE AMD Radeon™ RX 7900 XT Gaming OC 20G, 20GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2175 MHz a až 2535 MHz boost, 20 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 320-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",21 490 Kč,"skladem
+dodání do 2 dnů"
+364254,"ASUS TUF Gaming GeForce RTX 4070 Ti OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2760 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",24 899 Kč,"skladem
+na objednání"
+391062,"GIGABYTE AORUS GeForce RTX 4070 Ti SUPER MASTER 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate.",25 990 Kč,"skladem
+dodání do 2 dnů"
+364344,"ASUS AMD Radeon™ TUF Gaming AMD Radeon™ RX 7900 XTX OC Edition, 24GB GDDR6","Grafická karta společnosti ASUS, PCIe 4.0 x16, základní frekvence 2395 MHz a až 2615 MHz OC boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",29 999 Kč,"skladem
+na objednání"
+391057,"GIGABYTE AORUS GeForce RTX 4080 SUPER MASTER 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, LCD displej, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 420 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",33 690 Kč,"skladem
+dodání do 2 dnů"
+386312,"GIGABYTE GeForce RTX 4090 WINDFORCE V2 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2520 MHz, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",49 989 Kč,"skladem
+dodání do 2 dnů"
+364260,"ASUS GeForce GT 710 EVO, 2GB GDDR3","Grafická karta s pasivním chladičem, PCIe 2.0, frekvence 954 MHz, 2 GB GDDR3 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 2560 x 1600.",1 599 Kč,"skladem
+na objednání"
+332334,"PNY NVIDIA T1000, 4GB GDDR6","Grafická karta pro pracovní stanice, PCIe 3.0 x16, architektura Turing, 896 CUDA jader, 4 GB GDDR6 paměti, propustnost 160 GB/s 128-bit sběrnice s propustností 82 GB/s, 4x mini DisplayPort, maximální digitální rozlišení 4x 5120 x 2880 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, OpenCL, Java, DirectCompute 5.0, CUDA C, CUDA C++, Python, Fortran; součástí 4x mDP na DP adaptér.",10 446 Kč,"skladem
+dodání do 2 dnů"
+386303,"GIGABYTE GeForce RTX 4060 Ti WINDFORCE OC 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2550 MHz, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",10 590 Kč,"skladem
+dodání do 2 dnů"
+374896,"ASUS TUF Gaming GeForce RTX 4060 Ti O8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",12 490 Kč,"skladem
+dodání do 2 dnů"
+382945,"Sapphire PURE AMD Radeon™ RX 7700 XT GAMING OC 12GB, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2171 MHz a až 2544 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",12 690 Kč,"skladem
+dodání do 2 dnů"
+385032,"MSI GeForce RTX 4070 VENTUS 2X WHITE 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",15 879 Kč,"skladem
+dodání do 2 dnů"
+364343,"ASUS TUF Gaming AMD Radeon™ RX 7900 XT OC Edition, 20GB GDDR6","Grafická karta společnosti ASUS, PCIe 4.0 x16, základní frekvence 2130 MHz a až 2535 MHz OC boost, 20 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 320-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",23 990 Kč,"skladem
+na objednání"
+363060,"Sapphire AMD Radeon™ RX 7900 XT GAMING, 20GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2000 MHz a až 2400 MHz boost, 20 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 320-bit sběrnice, 1x HDMI 2.1, 2x DisplayPort 2.1, 1x USB-C, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",27 773 Kč,"skladem
+dodání do 2 dnů"
+358103,"GIGABYTE GeForce RTX 4090 Gaming OC 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",51 990 Kč,"skladem
+dodání do 2 dnů"
+358101,"GIGABYTE AORUS GeForce RTX 4090 MASTER 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, LCD displej, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slot design.",53 790 Kč,zahájení prodeje: zjišťujeme
+377035,"ASUS TUF GeForce RTX 4090 O24G OG GAMING, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,2-slot design.",Cena nebyla dosud stanovena.,"skladem
+dodání do 2 dnů"
+343991,"AMD Radeon™ Pro WX3200, 4GB GDDR5","Grafická karta pro pracovní stanice, PCIe 3.0 x16 (x8), 4 GB GDDR5 paměti, 128-bit sběrnice, 4x mini DisplayPort 1.4, technologie a software: AMD Polaris architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, DirectX 12.0, OpenGL 4.6, OpenCL 2.0, Vulkan 1.1.",4 735 Kč,"skladem
+dodání do 2 dnů"
+391771,"MSI GeForce RTX 4060 AERO ITX 8G OC, 8GB GDDR6","Grafická karta v podání MSI, malý formát, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, frekvence až 2505 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",8 268 Kč,"skladem
+dodání do 2 dnů"
+378228,"MSI GeForce RTX 4060 GAMING X 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 575 Kč,"skladem
+na objednání"
+343992,"AMD Radeon™ Pro W5500, 8GB GDDR5","Grafická karta pro pracovní stanice, PCIe 4.0 x16 (x8), 8 GB GDDR6 paměti, 128-bit sběrnice, 4x DisplayPort 1.4, napájení 1x 6-pin, technologie a software: AMD RDNA architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, AMD Radeon Media Engine, DirectX 12.0, OpenGL 4.6, OpenCL 2.0, Vulkan 1.1.",10 712 Kč,"skladem
+dodání do 2 dnů"
+374894,"ASUS Dual GeForce RTX 4060 Ti White OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",11 999 Kč,"skladem
+dodání do 2 dnů"
+391100,"MSI GeForce RTX 4060 Ti GAMING X SLIM 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",12 164 Kč,"skladem
+dodání do 2 dnů"
+375307,"MSI GeForce RTX 4060 Ti GAMING X 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (extrémní režim), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",12 200 Kč,"skladem
+dodání do 2 dnů"
+383201,"ASRock AMD Radeon™ RX 7700 XT Challenger 12GB OC, 12GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2226 MHz a až 2854 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",12 590 Kč,"skladem
+dodání do 2 dnů"
+380565,"MSI GeForce RTX 4060 Ti GAMING X SLIM 16G, 16GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",14 112 Kč,"skladem
+dodání do 2 dnů"
+383194,"ASUS TUF Gaming AMD Radeon™ RX 7700 XT OC Edition, 12GB GDDR6","Grafická karta společnosti ASUS, PCIe 4.0 x16, základní frekvence 2276 MHz a až 2599 MHz OC boost, 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",14 290 Kč,"skladem
+dodání do 2 dnů"
+343993,"AMD Radeon™ Pro W5700, 8GB GDDR6","Grafická karta pro pracovní stanice, PCIe 4.0 x16, 8 GB GDDR6 paměti, 256-bit sběrnice, 5x mini DisplayPort 1.4, 1x USB-C napájení 1x 8-pin a 1x 6-pin, technologie a software: AMD RDNA architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, AMD Radeon Media Engine, DirectX 12.0, OpenGL 4.6, OpenCL 2.0, Vulkan 1.1.",14 427 Kč,"skladem
+dodání do 2 dnů"
+343994,"AMD Radeon™ Pro W6600, 8GB GDDR6","Grafická karta pro pracovní stanice, PCIe 4.0 x8, 8 GB GDDR6 paměti, 128-bit sběrnice, 4x DisplayPort 1.4, napájení 1x 6-pin, technologie a software: AMD RDNA 2 architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, AMD Radeon Media Engine, hardwarový ray-tracing, DirectX 12.0, OpenGL 4.6, OpenCL 2.1, Vulkan 1.2.",16 133 Kč,"skladem
+dodání do 2 dnů"
+382335,"MSI GeForce RTX 4070 GAMING X SLIM 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (Extreme režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",17 537 Kč,"skladem
+dodání do 2 dnů"
+391102,"MSI GeForce RTX 4070 Ti VENTUS 2X 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim Extreme), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",19 739 Kč,"skladem
+dodání do 2 dnů"
+391042,"ASUS TUF Gaming GeForce RTX 4070 SUPER OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",19 999 Kč,"skladem
+na objednání"
+357159,"AMD Radeon™ Pro WX 8200, 8GB HBM2","Grafická karta pro pracovní stanice, PCIe 3.0 x16, 8 GB HBM2 paměti, 2048-bit sběrnice, 4x mini DisplayPort 1.4, technologie a software: AMD Vega architektura, AMD Radeon PRO Software, AMD Radeon VR Ready Creator, AMD Remote Workstation, AMD Eyefinity, DirectX 12.0, OpenGL 4.5, OpenCL 2.0, Vulkan 1.1.",20 041 Kč,"skladem
+na objednání"
+365971,"Sapphire AMD Radeon™ NITRO+ RX 7900 XT Vapor-X 20GB, 20GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2220 MHz a až 2560 MHz boost, 20 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 320-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",22 590 Kč,"skladem
+dodání do 2 dnů"
+386309,"GIGABYTE GeForce RTX 4070 Ti GAMING OC V2 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",23 490 Kč,"skladem
+dodání do 2 dnů"
+366365,"GIGABYTE AMD Radeon™ RX 7900 XTX GAMING OC 24G, 24GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2330 MHz a až 2525 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",28 490 Kč,"skladem
+na objednání"
+366035,"ASRock AMD Radeon™ RX 7900 XTX Phantom Gaming 24GB OC, 24GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x16, frekvence až 2455 MHz a až 2615 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",28 990 Kč,"skladem
+na objednání"
+332660,"PNY NVIDIA RTX A4000, 16GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 6144 CUDA, 192 Tensor jader, 48 RT jader, 16 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",32 710 Kč,"skladem
+na objednání"
+356686,"ASUS TUF Gaming GeForce RTX 4090 OC Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",50 999 Kč,"skladem
+dodání do 2 dnů"
+358274,"MSI GeForce RTX 4090 SUPRIM LIQUID X 24G, 24GGB GDDR6X","Grafická karta v podání MSI, kapalinové chlazení, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625/2640 MHz (herní a tichý/extrémní režim), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",55 748 Kč,"skladem
+dodání do 2 dnů"
+358102,"GIGABYTE AORUS GeForce RTX 4090 Xtreme Waterforce 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte s AIO kapalinovým chladičem, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",56 490 Kč,"skladem
+na objednání"
+357154,"AMD Radeon™ Pro W6400, 4GB GDDR6","Grafická karta pro pracovní stanice, PCIe 4.0 x4, 4 GB GDDR6 paměti, 64-bit sběrnice, 2x DisplayPort 1.4, technologie a software: AMD RDNA 2 architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Radeon VR Ready Creator, AMD Remote Workstation, AMD Eyefinity, AMD Radeon Media Engine, hardwarový ray-tracing, DirectX 12.0 Ultimate, OpenGL 4.6, OpenCL 2.2, Vulkan 1.2.",6 489 Kč,"skladem
+na objednání"
+379331,"Intel Alchemist Arc A750, 8GB GDDR6","Grafická karta společnosti Intel, PCIe 4.0 x16, frekvence 2050 MHz, 8 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, Intel XeSS, Ray Tracing.",6 574 Kč,"skladem
+na objednání"
+363558,"Fujitsu NVIDIA RTX A4000, 16GB GDDR6","Grafická karta pro vybrané servery a pracovní stanice Fujitsu Celsius, rozhraní PCIe 4.0 x16, architektura Ampere, 6144 CUDA, 192 Tensor jader, 48 RT jader, 16 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort 1.4, maximální rozlišení 7680 x 4320 @ 60 Hz.",41 059 Kč,"skladem
+na objednání"
+363559,"Fujitsu NVIDIA RTX A5000, 24GB GDDR6","Grafická karta pro vybrané servery a pracovní stanice Fujitsu Celsius, rozhraní PCIe 4.0 x16, architektura Ampere, 8192 CUDA, 256 Tensor jader, 64 RT jader, 24 GB GDDR6 paměti s ECC, 384-bit sběrnice, 4x DisplayPort 1.4, maximální rozlišení 7680 x 4320 @ 60 Hz.",90 802 Kč,"skladem
+na objednání"
+332655,"HP NVIDIA Quadro RTX A5000, 24GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 8192 CUDA, 256 Tensor jader, 64 RT jader, 24 GB GDDR6 paměti s ECC, 384-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",75 604 Kč,"skladem
+na objednání"
+357157,"AMD Radeon™ Pro WX 7100, 8GB GDDR5","Grafická karta pro pracovní stanice, PCIe 3.0 x16, 8 GB GDDR5 paměti, 256-bit sběrnice, 4x DisplayPort 1.4, technologie a software: AMD Polaris architektura, AMD Radeon PRO Software, AMD Radeon VR Ready Creator, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, DirectX 12.0, OpenGL 4.5, OpenCL 2.0, Vulkan 1.0.",19 981 Kč,"skladem
+na objednání"
+357155,"AMD Radeon™ Pro W6800, 32GB GDDR6","Grafická karta pro pracovní stanice, PCIe 4.0 x16, 32 GB GDDR6 paměti, 256-bit sběrnice, 6x mini DisplayPort 1.4, napájení 1x 8-pin a 1x 6-pin; technologie a software: AMD RDNA 2 architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Radeon VR Ready Creator, AMD Remote Workstation, AMD Eyefinity, AMD Radeon Media Engine, hardwarový ray-tracing, DirectX 12.0 Ultimate, OpenGL 4.6, OpenCL 2.2, Vulkan 1.2.",41 192 Kč,"skladem
+na objednání"
+303624,"HPE NVIDIA Quadro P1000, 4GB GDDR5","Profesionální grafická karta, čip NVIDIA Quadro P1000, 640 CUDA jader, paměť 4 GB GDDR5, 128-bit sběrnice, rozhraní PCIe 3.0 x16; výstup: 4 x mini DisplayPort.",9 006 Kč,"skladem
+na objednání"
+363557,"Fujitsu NVIDIA T1000, 4GB GDDR6","Grafická karta pro vybrané servery a pracovní stanice Fujitsu Celsius, PCIe 3.0 x16, architektura Turing, 896 CUDA jader, 4 GB GDDR6 paměti, propustnost 160 GB/s 128-bit sběrnice s propustností 82 GB/s, 4x mini DisplayPort, maximální digitální rozlišení 4x 5120 x 2880 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, OpenCL, Java, DirectCompute 5.0, CUDA C, CUDA C++, Python, Fortran; bez adaptérů.",10 107 Kč,zahájení prodeje: zjišťujeme
+301772,"OEM NVIDIA Quadro RTX6000, 24GB GDDR6","Vysoce výkonná grafická karta pro pracovní stanice, rozhraní PCIe 3.0 x16, architektura Turing, 4608 CUDA, 576 Tensor jader, 72 RT jader, 24 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort, VirtualLink, maximální rozlišení 4x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora, pasivní chlazení.",173 832 Kč,zahájení prodeje: zjišťujeme
+301774,"OEM NVIDIA Quadro RTX8000, 48GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice, rozhraní PCIe 3.0 x16, architektura Turing, 4608 CUDA, 576 Tensor jader, 72 RT jader, 48 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort, VirtualLink, maximální rozlišení 4x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora.",191 958 Kč,0
+301776,"OEM NVIDIA Quadro RTX 8000, 48GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice, rozhraní PCIe 3.0 x16, architektura Turing, 4608 CUDA, 576 Tensor jader, 72 RT jader, 48 GB GDDR6 paměti s ECC, 256-bit sběrnice, 4x DisplayPort, 1x USB-C, maximální rozlišení 4x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora, pasivní chlazení.",224 943 Kč,0
+301795,"OEM NVIDIA Tesla T4, 16GB GDDR6","Výkonná grafická karta pro pracovní stanice, PCIe 3.0 x16, architektura Turing, 2560 CUDA jader, 320 Tensor jader, 16 GB GDDR5 paměti, CUDA, NVIDIA TensorRT, ONNX; pasivní chlazení, nízký profil.",72 531 Kč,0
+332652,"PNY NVIDIA Quadro RTX A5000, 24GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 8192 CUDA, 256 Tensor jader, 64 RT jader, 24 GB GDDR6 paměti s ECC, 384-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",83 566 Kč,0
+332651,"PNY NVIDIA Quadro RTX A6000, 48GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 10752 CUDA, 336 Tensor jader, 84 RT jader, 48 GB GDDR6 paměti s ECC, 384-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",149 451 Kč,0
+332654,"HP NVIDIA Quadro RTX A6000, 48GB GDDR6","Grafická karta pro pracovní stanice, rozhraní PCIe 4.0 x16, architektura Ampere, 10752 CUDA, 336 Tensor jader, 84 RT jader, 48 GB GDDR6 paměti s ECC, 384-bit sběrnice, 4x DisplayPort 1.4a, maximální rozlišení 7680 x 4320 @ 60 Hz.",150 975 Kč,0
+295304,"GIGABYTE GeForce GT 710 2GB DR5, 2GB GDDR5","Kvalitní grafická karta, rozhraní PCIe 2.0 x8, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x VGA, 1x DVI-D, 1x HDMI, DirectX 12, OpenGL 4.5.",1 469 Kč,0
+313134,"GIGABYTE GeForce GT 710, 2GB GDDR5","Kvalitní grafická karta, rozhraní PCIe 2.0, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x DVI-D, 1x HDMI, DirectX 12, OpenGL 4.5.",1 490 Kč,0
+333422,"ASUS GeForce GT1030-SL-2GD4-BRK, 2GB GDDR4","Grafická karta, PCIe 3.0, architektura Pascal, pasivní chlazení, frekvence až 1417 MHz (boost v režimu OC), 2 GB GDDR4 paměti s frekvencí 2100 MHz, 64-bit sběrnice, 1x DVI-D, 1x HDMI, GPU Tweak II.",2 499 Kč,0
+201514,"ASUS GeForce GTX 1050 Ti PH-GTX1050TI-4G, 4GB GDDR5","Herní grafická karta, jádro Nvidia GeForce GTX 1050 Ti, rozhraní PCI Express 3.0, GPU boost/základní režim: 1392 MHz/1290 MHz, 4 GB GDDR5 (7008 MHz), šířka paměťové sběrnice: 128 bitů. Max. rozlišení: 7680 x 4320 pixelů. Dvouslotové chlazení. Rozhraní: 1 x DVI-D, 1 x HDMI 2.0, 1 x DisplayPort",4 699 Kč,0
+322095,"GIGABYTE GeForce RTX 3060 VISION OC 12G (rev. 2.0), LHR, 12GB GDDR6","Výkonná grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1837 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",8 289 Kč,0
+366046,"GIGABYTE GeForce AORUS RTX 4070 Ti MASTER 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, LCD displej, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence 2670 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate.",23 989 Kč,0
+392611,"MSI GeForce RTX 4080 SUPER 16G GAMING X SLIM WHITE, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",30 290 Kč,0
+391714,"ASUS TUF Gaming GeForce RTX 4080 SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",28 699 Kč,0
+391359,"MSI GeForce RTX 4080 SUPER 16G VENTUS 3X OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",29 990 Kč,0
+393917,"MSI GeForce RTX 4080 SUPER 16G GAMING X SLIM, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",30 290 Kč,0
+392615,"MSI GeForce RTX 4080 SUPER 16G SUPRIM X, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (extrémní režim), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",32 686 Kč,0
+394183,"PALiT GeForce RTX 3050 KalmX, 6GB GDDR6","Grafická karta v podání PALiT, pasivní chlazení, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1470 MHz (boost), 6 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 96-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a, 1x DVI-D; max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",5 499 Kč,0
+393413,"ASUS Dual GeForce RTX 4070 SUPER White Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",17 999 Kč,0
+393412,"ASUS TUF Gaming GeForce RTX 4070 SUPER, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",19 990 Kč,0
+393410,"ASUS ProArt GeForce RTX 4070 Ti SUPER OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",25 990 Kč,0
+393411,"ASUS ProArt GeForce RTX 4070 Ti SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",25 990 Kč,0
+393409,"ASUS ROG Strix GeForce RTX 4070 Ti SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",27 499 Kč,0
+392718,"ASUS ProArt GeForce RTX 4080 SUPER OC, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",30 499 Kč,0
+392719,"ASUS ProArt GeForce RTX 4080 SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",30 999 Kč,0
+392716,"ASUS ROG Strix GeForce RTX 4080 SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",34 499 Kč,0
+392714,"ASUS ROG Strix GeForce RTX 4080 SUPER White Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",35 499 Kč,0
+392712,"ASUS ROG Strix GeForce RTX 4080 SUPER White OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",35 999 Kč,0
+301395,"ASUS GeForce TUF-GTX1650-O4GD6-P-GAMING, 4GB GDDR6","Výkonná herní grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1785 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.5, DirectX 12, VR Ready, NVIDIA: Ansel a G-Sync.",5 899 Kč,0
+311815,"MSI GeForce RTX 3060 VENTUS 3X 12G OC, LHR, 12GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12.",8 425 Kč,0
+323016,"GIGABYTE GeForce RTX 3070 GAMING OC 8G (rev. 2.0), LHR, 8GB GDDR6","Vysoce výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1815 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin a 1x 6-pin, max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12; verze s omezeným výkonem pro těžbu kryptoměn.",13 090 Kč,0
+375653,"MSI AMD Radeon™ RX 6800 GAMING Z TRIO 16G V1, 16GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x16, frekvence až 1925 MHz a až 2155 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4a, napájení 3x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",13 507 Kč,0
+361445,"MSI GeForce RTX 4080 16GB VENTUS 3X OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",33 884 Kč,0
+391038,"PALiT GeForce RTX 4070 Ti Super JetStream OC, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",22 099 Kč,0
+391075,"GIGABYTE GeForce RTX 4070 SUPER WINDFORCE OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2505 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",16 990 Kč,0
+371733,"PALiT GeForce RTX 4070 Dual, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2475 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",13 890 Kč,0
+391068,"GIGABYTE GeForce RTX 4070 Ti SUPER WINDFORCE OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2625 MHz, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",23 989 Kč,0
+372220,"MSI GeForce RTX 4070 VENTUS 2X 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, frekvence až 2520 MHz (extrémní režim), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",16 193 Kč,0
+391072,"GIGABYTE GeForce RTX 4070 SUPER GAMING OC 12G, 12GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2565 MHz, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",18 290 Kč,0
+391036,"PALiT GeForce RTX 4070 Ti Super GamingPro OC, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",23 290 Kč,0
+391066,"GIGABYTE GeForce RTX 4070 Ti SUPER EAGLE OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2640 MHz, 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",23 590 Kč,0
+391034,"PALiT GeForce RTX 4080 Super JetStream OC, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",27 699 Kč,0
+390986,"ASUS TUF Gaming GeForce RTX 4070 Ti SUPER OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",24 999 Kč,0
+379611,"PALiT GeForce RTX 4060 Ti JetStream OC, 16GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2595 MHz (boost), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",11 990 Kč,0
+391039,"PALiT GeForce RTX 4070 Super JetStream OC, 12GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (boost), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",17 999 Kč,0
+364501,"PALiT GeForce RTX 3050 StormX, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1777 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a, 1x DVI-D; napájení 1x 6-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",5 499 Kč,0
+391026,"PALiT GeForce RTX 4080 Super GamingPro OC, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",28 990 Kč,0
+391058,"GIGABYTE GeForce RTX 4080 SUPER AERO OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence 2595 MHz, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",30 490 Kč,0
+390990,"ASUS Dual GeForce RTX 4070 SUPER, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 168 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",17 799 Kč,0
+364362,"MSI GeForce RTX 4070 Ti SUPRIM X 12G, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slotový design.",22 885 Kč,0
+391059,"GIGABYTE GeForce RTX 4080 SUPER GAMING OC 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",29 990 Kč,0
+390987,"ASUS TUF Gaming GeForce RTX 4070 Ti SUPER, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",22 999 Kč,0
+391060,"GIGABYTE GeForce RTX 4080 SUPER WINDFORCE V2 16G, 16GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2550 MHz, 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",27 699 Kč,0
+391047,"ASUS TUF Gaming GeForce RTX 4080 SUPER OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",31 999 Kč,0
+356699,"PALiT GeForce RTX 4090 GameRock OC, 24GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (boost), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin (12VHPWR) nebo 3x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design.",47 990 Kč,0
+364470,"GIGABYTE GeForce GT730, 2GB GDDR3","Grafická karta, rozhraní PCIe 2.0, frekvence 902 MHz, 2 GB GDDR3 paměti, 64-bit sběrnice, 1x VGA, 1x DVI-D, 1x HDMI, DirectX 12, OpenGL 4.4.",1 549 Kč,0
+344007,"Sapphire PULSE RADEON RX 6400 GAMING, 4GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x4, 4 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 64-bit sběrnice, 1x HDMI, 1x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",3 990 Kč,0
+306774,"Sapphire AMD Radeon™ PULSE RX 6800, 16GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 1950 MHz a až 2170 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",14 608 Kč,0
+306772,"Sapphire AMD Radeon™ NITRO+ RX 6800 XT, 16GB GDDR6","Vysoce výkonná herní grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2110 MHz a až 2360 MHz boost, 16 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 256-bit sběrnice, 1x HDMI, 3x DisplayPort, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",16 496 Kč,0
+361446,"MSI GeForce RTX 4080 16GB SUPRIM X, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",32 044 Kč,0
+358107,"ASUS TUF Gaming GeForce RTX 4090, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",50 990 Kč,0
+377036,"ASUS ROG STRIX LC GeForce RTX 4090 24G GAMING, 24GB GDDR6X","Grafická karta v podání ASUS, kapalinové chlazení, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,6-slot design.",Cena nebyla dosud stanovena.,0
+377034,"ASUS TUF GeForce RTX 4090 24G OG GAMING, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,2-slot design.",Cena nebyla dosud stanovena.,0
+332675,"MSI N730K-2GD3H/LPV1, 2GB GDDR3","Grafická karta s pasivním chladičem, PCIe 2.0 rozhraní, frekvence 902 MHz, 2 GB GDDR3 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 4096 x 2160, OpenGL 4.4.",1 649 Kč,0
+316391,"ASUS GeForce GT710-SL-2GD5-BRK, 2GB GDDR5","Kvalitní grafická karta s pasivním chladičem, PCIe 2.0, frekvence 954 MHz, 2 GB GDDR5 paměti, 32-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 2560 x 1600(DVI), OpenGL 4.5.",1 999 Kč,0
+335102,"ASUS GeForce GT730-2GD5-BRK-E, 2GB GDDR5","Grafická karta s pasivním chladičem, PCIe rozhraní, frekvence až 732 MHz (OC), 2 GB GDDR5 paměti, 64-bit sběrnice, 1x HDMI 1.4b, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160, OpenGL 4.6.",2 199 Kč,0
+291261,"ASUS GeForce GT710-4H-SL-2GD5, 2GB GDDR5","Kvalitní grafická karta s pasivním chladičem, PCIe 2.0, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 4x HDMI port, rozlišení max. 3840 x 2160 @ 60/30 Hz (1/více monitorů), OpenGL 4.6.",2 299 Kč,0
+328280,"ASUS GeForce GT710-SL-2GD5, 2GB GDDR5","Kvalitní grafická karta s pasivním chladičem, PCIe 2.0, frekvence 954 MHz, 2 GB GDDR5 paměti, 64-bit sběrnice, 1x HDMI, 1x DVI-D, 1x VGA, rozlišení max. 3840 x 2160.",2 499 Kč,0
+286651,"HP AMD Radeon™ R7 430, 2GB GDDR5","Kvalitní výkonná grafická karta pro vybrané počítače HP ProDesk, EliteDesk a Desktop Pro; nízko-profilová, rozhraní PCIe 3.0 , 2 GB GDDR5 paměti, 2x DisplayPort, OpenGL 4.4, DirectX 12.",2 899 Kč,0
+373812,"PNY NVIDIA Quadro P400 V2, 2GB","Výkonná grafická karta pro pracovní stanice, PCIe 3.0 x16, architektura Pascal, 256 CUDA jader, 2 GB GDDR5 paměti, 64-bit sběrnice s propustností 32 GB/s, 3x mini DisplayPort, maximální digitální rozlišení 1x 5120 x 2880 @ 60 Hz nebo 3x 4096 x 2160 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, Vulkan 1.0, NVIDIA GPU Boost 3.0, součástí balení nízkoprofilová záslepka a 3x adaptér mini DisplayPort na DisplayPort.",3 199 Kč,0
+343971,"ASUS AMD Radeon™ DUAL-RX6400-4G, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2321 MHz (režim OC boost), 4 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 64-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a; max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2-slotový design.",3 399 Kč,0
+240917,"HP NVIDIA Quadro P620, 2GB GDDR5 Kit w/2 Adapters","Kvalitní grafická karta určená pro vybrané zařízení HP Z4/Z6/Z8 G4, 512 CUDA jader, 2 GB GDDR5 paměti, 128-bit sběrnice, 4x mini DisplayPort, podpora 4K rozlišení, podpora HDR, připojení až 4 monitorů, součástí 2x adaptér mini DisplayPort na DisplayPort.",4 190 Kč,0
+377870,"MSI GeForce GTX 1630 4GT LP OC, 4GB GDDR6","Grafická karta v podání MSI, nízký profil, rozhraní PCIe 3.0, architektura Turing, frekvence až 1815 MHz (boost), 4 GB GDDR6 paměti, 64-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",4 227 Kč,0
+285683,"PNY NVIDIA Quadro P400, 2GB","Výkonná grafická karta pro pracovní stanice, PCIe 3.0 x16, architektura Pascal, 256 CUDA jader, 2 GB GDDR5 paměti, 64-bit sběrnice s propustností 32 GB/s, 3x mini DisplayPort, maximální digitální rozlišení 1x 5120 x 2880 @ 60 Hz nebo 3x 4096 x 2160 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, Vulkan 1.0, NVIDIA GPU Boost 3.0, součástí balení nízkoprofilová záslepka a 3x adaptér mini DisplayPort na DisplayPort.",4 290 Kč,0
+302558,"MSI GeForce GTX 1650 VENTUS XS D6 4G OCV1, 4GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1620 MHz (boost), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",4 372 Kč,0
+286653,"HP AMD Radeon™ RX-550X, 4GB GDDR5","Kvalitní výkonná grafická karta pro vybrané počítače HP ProDesk, EliteDesk a Desktop Pro, rozhraní PCIe 3.0 , 4 GB GDDR5 paměti, 128-bit sběrnice, 1x DisplayPort, 1x HDMI, OpenGL 4.5, DirectX 12.",4 399 Kč,0
+345912,"GIGABYTE AMD Radeon™ RX 6400 EAGLE 4G, 4GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0, frekvence až 2039 MHz (až 2321 MHz boost), 4 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 64-bit sběrnice, 1x HDMI 2.1, 1x DisplayPort 1.4; OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",4 577 Kč,0
+314251,"MSI GeForce GTX 1650 D6 VENTUS XS OC, 4GB GDDR6","Výkonná herní grafická karta v podání MSI, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1620 MHz (boost), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",4 577 Kč,0
+368286,"ASUS Phoenix GeForce GTX 1650 V2 OC edition, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 3.0 , architektura Turing, frekvence až 1635 MHz (režim OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, VR Ready, NVIDIA: Ansel a G-Sync.",4 699 Kč,0
+344574,"Sapphire AMD Radeon™ PULSE RX 6500 XT, 4GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, 4 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 64-bit sběrnice, 1x HDMI 2.1, 1x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",4 880 Kč,0
+278606,"HP AMD Radeon™ PRO WX 3200, 4GB GDDR5","Vysoce výkonná grafická karta určená pro pracovní stanice HP Z2/Z2 SFF/Z4/Z6/Z8 G4, rozhraní PCIe, 4 GB GDDR5, 128-bit sběrnice, 4x mini DisplayPort, maximální digitální rozlišení 1x 7680 x 4320 @ 60 Hz/4x 3840x2160 @ 60 Hz.",4 899 Kč,0
+340721,"ASUS AMD Radeon™ TUF-RX6500XT-O4G-GAMING, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2825 MHz (režim OC boost), 4 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 64-bit sběrnice, konektory: 1x HDMI 2.1, 1x DisplayPort 1.4a; napájení 1x 6-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,7-slotový design.",5 499 Kč,0
+340719,"ASUS GeForce TUF-GTX1650-4GD6-GAMING, 4GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1620 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",5 689 Kč,0
+336739,"ASUS GeForce PH-RTX3050-8G, LHR, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2,55-slotový design.",5 890 Kč,0
+303464,"ASUS GeForce TUF-GTX1650-4GD6-P-GAMING, 4GB GDDR6","Výkonná herní grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1620 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, VR Ready, NVIDIA: Ansel a G-Sync.",5 990 Kč,0
+316844,"ASUS GeForce TUF-GTX1650-O4GD6-GAMING, 4GB GDDR6","Výkonná herní grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1680 MHz (boost v režimu OC), 4 GB GDDR6 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.6, DirectX 12, VR Ready, NVIDIA: Ansel a G-Sync.",5 999 Kč,0
+360442,"MSI GeForce GTX 1650 VENTUS XS 4G OCV1, 4GB GDDR5","Grafická karta v podání MSI, rozhraní PCIe 3.0, architektura Turing, frekvence až 1695 MHz (boost), 4 GB GDDR5 paměti, 128-bit sběrnice, 1x HDMI, 1x DisplayPort, 1x DVI-D, OpenGL 4.5, DirectX 12, NVIDIA: Ansel a G-Sync.",6 296 Kč,0
+364467,"GIGABYTE GeForce RTX 3050 EAGLE 8G, 8GB GDDR6","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1777 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin; max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate.",6 499 Kč,0
+343989,"AMD Radeon™ Pro WX3100, 4GB GDDR5","Grafická karta pro pracovní stanice, PCIe 3.0 x16 (x8), 4 GB GDDR5 paměti, 128-bit sběrnice, 1x DisplayPort 1.4, 2x mini DisplayPort 1.4, technologie a software: AMD Polaris architektura, AMD Radeon PRO Software, AMD Radeon ProRender, AMD Remote Workstation, AMD Eyefinity, DirectX 12.0, OpenGL 4.5, OpenCL 2.0, Vulkan 1.0.",6 634 Kč,0
+345719,"MSI GeForce RTX 3050 VENTUS 2X 8G OC, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",6 913 Kč,0
+364535,"ASUS Dual GeForce RTX 3060 White OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1867 MHz (OC bosst), 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12.",6 990 Kč,0
+365216,"ASUS Dual GeForce RTX 3060 OC Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1867 MHz (OC Boost), 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12, 2-slotový design.",7 199 Kč,0
+375485,"ASRock AMD Radeon™ RX 7600 Challenger 8G OC, 8GB GDDR6","Grafická karta společnosti ASRock, PCIe 4.0 x8, frekvence až 2280 MHz a až 2695 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4a, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",7 289 Kč,0
+375641,"MSI AMD Radeon™ RX 7600 MECH 2X CLASSIC 8G OC, 8GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x8, frekvence až 2280 MHz a až 2695 MHz boost, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, hardwarový Raytracing.",7 554 Kč,0
+326158,"GIGABYTE GeForce RTX 3060 EAGLE OC 12G (rev.2.0), LHR, 12GB GDDR6","Výkonná herní grafická karta v podání Gigabyte, rozhraní PCIe 4.0, architektura Ampere, frekvence 1807 MHz, 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 2x DisplayPort 1.4a; napájení 1x 8-pin; max. rozlišení 7680x4320 @ 60 Hz, OpenGL 4.6, DirectX 12 Ultimate; verze s omezeným výkonem pro těžbu kryptoměn.",7 590 Kč,0
+377624,"PALiT GeForce RTX 4060 Dual OC, 8GB GDDR6","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",7 899 Kč,0
+378383,"ASUS Dual GeForce RTX 4060 8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2490 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 17 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",7 999 Kč,0
+338641,"ASUS GeForce TUF-GTX1660TI-O6G-EVO-GAMING, 6GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 3.0, architektura Turing, frekvence až 1845 MHz (boost v režimu OC), 6 GB GDDR6 paměti, 192-bit sběrnice, 1x HDMI 2.0b, 1x DisplayPort 1.4a, 1x DVI-D, OpenGL 4.6, DirectX 12, NVIDIA: Ansel a G-Sync.",8 098 Kč,0
+374978,"ASUS Dual AMD Radeon™ RX 7600 O8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2745 MHz (režim OC boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,5-slot design.",8 199 Kč,0
+222532,HP NVIDIA Quadro P1000 4GB GDDR5,"Profesionální grafická karta, čip NVIDIA Quadro P1000, 640 CUDA jader, 4 GB paměti typu GDDR5, 128bitová sběrnice, rozhraní PCIe 3.0. Výstup: 4 x mDP.",8 489 Kč,0
+364124,"ASUS Dual GeForce RTX 3060 Ti White OC Edition, 8GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1710 MHz (OC bosst), 8 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12.",8 499 Kč,0
+320675,"ASUS GeForce TUF-RTX3060-O12G-V2-GAMING, LHR, 12GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1882 MHz (OC Boost), 12 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 192-bit sběrnice, konektory: 2x HDMI 2.1, 3x DisplayPort 1.4a (max. 4 monitory); napájení 1x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12, 2,7-slot design.",8 790 Kč,0
+364708,"ASUS Dual GeForce RTX 3060 Ti White Edition, 8GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1695 MHz (OC bosst), 8 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 256-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12.",8 899 Kč,0
+333423,"ASUS AMD Radeon™ DUAL-RX6600-8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2491 MHz (režim OC boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,5-slot design.",8 990 Kč,0
+374977,"ASUS ROG Strix AMD Radeon™ RX 7600 O8G GAMING, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, frekvence až 2755 MHz (režim OC boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing, 2,9-slot design.",8 999 Kč,0
+364951,"Sapphire AMD Radeon™ PULSE RX 6700 XT GAMING 12GB, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0 x16, frekvence až 2581 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",9 756 Kč,0
+364709,"ASUS Dual GeForce RTX 3060 White Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1807 MHz (OC bosst), 8 GB GDDR6 paměti, rychlost paměti 15 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12.",9 999 Kč,0
+374787,"PALiT GeForce RTX 4060 Ti Dual OC 8GB GDDR6, 3*DP, HDMI","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2685 MHz (boost), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2-slotový design.",9 999 Kč,0
+374891,"ASUS Dual GeForce RTX 4060 Ti, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",10 499 Kč,0
+378381,"ASUS ROG Strix GeForce RTX 4060 8G GAMING, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2490 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 21 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slotový design.",10 799 Kč,0
+378380,"ASUS ROG Strix GeForce RTX 4060 O8G GAMING, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x8, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2700 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 21 Gb/s, 128-bit sběrnice, 3 072 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slotový design.",10 999 Kč,0
+346172,"ASUS GeForce TUF-RTX3070-O8G-V2-GAMING (LHR), 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1845 MHz, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 3x DisplayPort 1.4a (max. 4 monitory); napájení 2x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12, 2,7-slot design.",11 689 Kč,0
+345685,"Sapphire PULSE RADEON RX 6750 XT, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, frekvence až 2512 MHz (až 2618 MHz boost), 12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",11 741 Kč,0
+374893,"ASUS Dual GeForce RTX 4060 Ti White Edition, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",11 799 Kč,0
+335052,"HP NVIDIA T1000, 4GB GDDR6","Grafická karta pro pracovní stanice, PCIe 3.0 x16, architektura Turing, 896 CUDA jader, 4 GB GDDR6 paměti, propustnost 160 GB/s 128-bit sběrnice, 4x mini DisplayPort, maximální digitální rozlišení 4x 5120 x 2880 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, OpenCL, Java, DirectCompute 5.0, CUDA C, CUDA C++, Python, Fortran; součástí 4x mDP na DP adaptér.",11 999 Kč,0
+374895,"ASUS TUF Gaming GeForce RTX 4060 Ti 8G, 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2565 MHz (režim OC), 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,12-slot design, součástí držák karty.",12 799 Kč,0
+345682,"Sapphire NITRO+ RADEON RX 6750 XT, 12GB GDDR6","Grafická karta společnosti Sapphire, PCIe 4.0, frekvence až 2554 MHz (až 2623 MHz boost),12 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 192-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 1.4, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",12 818 Kč,0
+335051,"HP AMD Radeon™ Pro W5700, 8GB GDDR6","Grafická karta pro vybrané pracovní stanice HP, rozhraní PCIe 4.0 x16, 8 GB GDDR6, 256-bit sběrnice, 5x mini DisplayPort 1.4, 1x USB typ-C, maximální digitální rozlišení 3x 7680 x 4320 @ 60 Hz/6x 3840x2160 @ 60 Hz.",12 990 Kč,0
+336484,"MSI GeForce RTX 3050 GAMING X 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0, architektura Ampere, 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 128-bit sběrnice, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, max. rozlišení 7680x4320, OpenGL 4.6, DirectX 12.",13 060 Kč,0
+379625,"ASUS Dual GeForce RTX 4060 Ti Advanced Edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",13 199 Kč,0
+160221,"PNY Quadro K2200, 4GB GDDR5","Profesionální grafická karta s grafickým čipem NVIDIA Quadro K2200, 640 stream procesorů architektury NVIDIA CUDA, 4GB GDDR5 pamětí, 128bitové rozhraní s propustností až 80 GB/s, DVI, 2x DisplayPort PCI Express 2.0 x 16.",13 483 Kč,0
+375308,"MSI GeForce RTX 4060 Ti GAMING X TRIO 8G, 8GB GDDR6","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16 (x8), architektura NVIDIA Ada Lovelace, DLSS 3, 8 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slotový design.",13 652 Kč,0
+351431,"Lenovo Legion Bootstation GPU Dock RTX2060, 6GB GDDR6 - externí GPU","Dok s grafickou kartou pro notebooky, obsahuje NVIDIA GeForce RTX2060 6 GB, rozhraní Thunderbolt 3 (USB typ-C), konektory: 2x USB 3.2 Gen1, 1x USB 2.0, 1x RJ-45; výstup grafické karty: 3x DisplayPort 1.2, 1x HDMI 2.0, podpora pro 1x 3,5“ a 1x 2,5“ HDD/SSD, zabudovaný zdroj s výkonem 500 W.",13 999 Kč,0
+379627,"ASUS ProArt GeForce RTX 4060 Ti Advanced edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",14 199 Kč,0
+379629,"ASUS ROG Strix GeForce RTX 4060 Ti Advanced Edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2580 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slotový design.",15 399 Kč,0
+379628,"ASUS ROG Strix GeForce RTX 4060 Ti OC Edition, 16GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2745 MHz (režim OC), 16 GB GDDR6 paměti, rychlost paměti 18 Gb/s, 128-bit sběrnice, 4 352 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slotový design.",15 699 Kč,0
+383192,"ASUS TUF Gaming AMD Radeon™ RX 7800 XT White OC Edition, 16GB GDDR6","Grafická karta společnosti ASUS, PCIe 4.0 x16, základní frekvence 2213 MHz a až 2565 MHz OC boost, 16 GB GDDR6 paměti, rychlost paměti 19,5 Gb/s, 256-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",16 499 Kč,0
+372216,"ASUS Dual GeForce RTX 4070 White Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",16 699 Kč,0
+372214,"ASUS Dual GeForce RTX 4070, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,56-slot design.",16 699 Kč,0
+312799,"GIGABYTE AMD Radeon™ RX 6700 XT EAGLE 12G, 12GB GDDR6","Vysoce výkonná herní grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2581 MHz boost, 12 GB GDDR6 paměti, rychlost paměti 16 Gb/s, 192-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 1.4a, napájení: 1x 8-pin a 1x 6-pin konektor; OpenGL 4.6, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, DirectX Raytracing.",17 270 Kč,0
+328627,"ASUS GeForce TUF Gaming RTX 3080 V2 OC, LHR, 10GB GDDR6X","Vysoce výkonná grafická karta série TUF s důrazem na využití velmi kvalitních komponent, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1740 MHz, 10 GB GDDR6X paměti, rychlost paměti 19 Gb/s, 320-bit sběrnice. Rozhraní: konektory: 2x HDMI 2.1, 3x DisplayPort 1.4a; napájení 2x 8-pin, max. rozlišení 7680x4320 @ 60 Hz. Podporuje OpenGL 4.6, DirectX 12; verze LHR s omezeným výkonem pro těžbu kryptoměn. Zabírá 2.7 slotu.",17 490 Kč,0
+372212,"ASUS TUF Gaming GeForce RTX 4070, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2505 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 5 888 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4a; napájení 1x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",18 899 Kč,0
+337386,"ASUS GeForce DUAL-RTX3070-8G-V2 (LHR), 8GB GDDR6","Grafická karta v podání ASUS, rozhraní PCIe 4.0, architektura Ampere, frekvence až 1755 MHz (OC boost), 8 GB GDDR6 paměti, rychlost paměti 14 Gb/s, 256-bit sběrnice, konektory: 2x HDMI 2.1, 3x DisplayPort 1.4a (max. 4 monitory); napájení 2x 8-pin, max. rozlišení 7680x4320 OpenGL 4.6, DirectX 12; verze s omezeným výkonem pro těžbu kryptoměn.",19 990 Kč,0
+386489,"MSI GeForce RTX 4070 Ti VENTUS 3X E 12G OC, 12GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim Extreme), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",23 187 Kč,0
+391035,"PALiT GeForce RTX 4070 Ti Super GamingPro White OC, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",23 490 Kč,0
+257761,"HP NVIDIA Quadro RTX 4000, 8GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice HP Z4/Z8 G4, PCIe 3.0 , architektura Turing, 2304 CUDA, 8 GB GDDR6 paměti, 256-bit sběrnice, 3x DisplayPort, VirtualLink, maximální rozlišení 4x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora.",23 990 Kč,0
+364253,"ASUS TUF Gaming GeForce RTX 4070 Ti, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,25-slot design, součástí držák karty.",24 990 Kč,0
+364255,"ASUS ROG Strix GeForce RTX 4070Ti, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design, součástí držák karty.",26 699 Kč,0
+364256,"ASUS ROG Strix GeForce RTX 4070Ti OC Edition, 12GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2790 MHz (režim OC), 12 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 192-bit sběrnice, 7 680 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design, součástí držák karty.",26 999 Kč,0
+390984,"ASUS ROG Strix GeForce RTX 4070 Ti SUPER OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2700 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 8 448 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,15-slot design, součástí držák karty.",27 999 Kč,0
+316502,"PNY NVIDIA Quadro RTX 4000, 8GB GDDR6","Výkonná grafická karta pro pracovní stanice, rozhraní PCIe 3.0 x16, architektura Turing, 2304 CUDA, 288 Tensor jader, 36 RT jader, 8 GB GDDR6 paměti, 256-bit sběrnice, 3x DisplayPort, VirtualLink, maximální rozlišení 3x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, profesionální 3D podpora.",28 088 Kč,0
+388387,"MSI GeForce RTX 4080 16GB VENTUS 3X E OC, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",28 608 Kč,0
+391032,"PALiT GeForce RTX 4080 Super GamingPro, 16GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (boost), 16 GB GDDR6X paměti, rychlost paměti 23 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 2x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,1-slot design.",28 790 Kč,0
+373053,"GIGABYTE AMD Radeon™ RX 7900 XTX AORUS ELITE, 24GB GDDR6","Grafická karta společnosti Gigabyte, PCIe 4.0 x16, frekvence až 2510 MHz a až 2680 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 2x HDMI 2.1, 2x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",28 990 Kč,0
+368025,"MSI AMD Radeon™ RX 7900 XTX GAMING TRIO CLASSIC 24G, 24GB GDDR6","Grafická karta společnosti MSI, PCIe 4.0 x16, frekvence až 2300 MHz a až 2500 MHz boost, 24 GB GDDR6 paměti, rychlost paměti 20 Gb/s, 384-bit sběrnice, 1x HDMI 2.1, 3x DisplayPort 2.1, DirectX 12 Ultimate, AMD FreeSync, AMD Radeon Anti-Lag, raytracing.",30 931 Kč,0
+386467,"MSI GeForce RTX 4080 16GB GAMING X SLIM WHITE, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (režim Extreme), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 2x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",31 990 Kč,0
+363413,"MSI GeForce RTX 4080 16GB GAMING X TRIO, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim) 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slotový design.",32 879 Kč,0
+361444,"MSI GeForce RTX 4080 16GB GAMING TRIO, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slotový design.",33 339 Kč,0
+377881,"MSI GeForce RTX 4080 16GB GAMING X TRIO WHITE, 16GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2610 MHz (extrémní režim) 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,2-slotový design.",34 912 Kč,0
+360607,"ASUS TUF Gaming GeForce RTX 4080, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",34 990 Kč,0
+391049,"ASUS ROG Strix GeForce RTX 4080 SUPER OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2670 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 10 240 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",34 999 Kč,0
+360606,"ASUS TUF Gaming GeForce RTX 4080 OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,65-slot design, součástí držák karty.",35 990 Kč,0
+366168,"ASUS ROG Strix GeForce RTX 4080 White Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",37 990 Kč,0
+380158,"ASUS ProArt GeForce RTX 4080 OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2625 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,5-slot design.",37 999 Kč,0
+360604,"ASUS ROG Strix GeForce RTX 4080 OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",39 690 Kč,0
+360605,"ASUS ROG Strix GeForce RTX 4080, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2535 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",39 990 Kč,0
+366167,"ASUS ROG Strix GeForce RTX 4080 White OC Edition, 16GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2655 MHz (režim OC), 16 GB GDDR6X paměti, rychlost paměti 22,4 Gb/s, 256-bit sběrnice, 9 728 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",41 990 Kč,0
+375351,"GIGABYTE GeForce RTX 4090 GAMING 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2520 MHz, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",44 690 Kč,0
+370203,"PALiT GeForce RTX 4090 GameRock OmniBlack, 24GB GDDR6X","Grafická karta v podání PALiT, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2520 MHz (boost), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin nebo 3x 8-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design.",44 990 Kč,0
+365891,"MSI GeForce RTX 4090 VENTUS 3X 24G OC, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3-slotový design.",46 891 Kč,0
+358104,"GIGABYTE GeForce RTX 4090 Windforce 24G, 24GB GDDR6X","Grafická karta v podání Gigabyte, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, základní frekvence 2520 MHz, 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1, 3x DisplayPort 1.4; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",47 890 Kč,0
+249136,"PNY NVIDIA Quadro RTX 5000, 16GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice, PCIe 3.0, architektura Turing, 3072 CUDA, 16 GB GDDR6 paměti s ECC, 4096-bit sběrnice s propustností 448 GB/s, 4x DisplayPort, VirtualLink, maximální digitální rozlišení HDR 7680 x 4320 @ 60 Hz, OpenGL 4.5, Shader Model 5.1, DirectX 12, Vulkan 1.0, profesionální 3D podpora.",48 863 Kč,0
+207532,"HP NVIDIA Quadro P5000, 16GB GDDR5X","Kvalitní profesionální grafická karta určená pro počítače HP Z Workstation, PCIe 3.0 , 16 GB GDDR5X, 256-bit sběrnice, 4x DisplayPort, 1x DVI-D, maximální digitální rozlišení 7680 x 4320.",48 990 Kč,0
+359991,"MSI GeForce RTX 4090 GAMING TRIO 24G, 24GB GDDR6X","Grafická karta v podání MSI, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2520/2535 (Boost/Extreme), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 1x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 4-slotový design.",50 424 Kč,0
+366166,"ASUS ROG Strix GeForce RTX 4090 White Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",51 999 Kč,0
+377037,"ASUS ROG STRIX LC GeForce RTX 4090 O24G GAMING, 24GB GDDR6X","Grafická karta v podání ASUS, kapalinové chlazení, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 2,6-slot design.",55 990 Kč,0
+358105,"ASUS ROG Strix GeForce RTX 4090, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2550 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty.",55 990 Kč,0
+257762,"HP NVIDIA Quadro RTX 5000, 16GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice HP Z4/Z8 G4, PCIe 3.0 , architektura Turing, 3072 CUDA, 16 GB GDDR6 paměti, 256-bit sběrnice, 4x DisplayPort, VirtualLink, maximální rozlišení 2x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, NVIDIA NVLink, profesionální 3D podpora.",56 990 Kč,0
+386959,"Asus ROG Strix GeForce RTX 4090 OC EVA-02 Edition, 24GB GDDR6X","Grafická karta v podání ASUS, rozhraní PCIe 4.0 x16, architektura NVIDIA Ada Lovelace, DLSS 3, frekvence až 2640 MHz (režim OC), 24 GB GDDR6X paměti, rychlost paměti 21 Gb/s, 384-bit sběrnice, 16 384 CUDA jader, konektory: 2x HDMI 2.1a, 3x DisplayPort 1.4a; napájení 1x 16-pin, OpenGL 4.6, DirectX 12 Ultimate, 3,5-slot design, součástí držák karty; verze inspirovaná anime Neon Genesis Evangelion.",59 990 Kč,0
+261183,"HP NVIDIA Quadro RTX 6000, 24GB GDDR6","Extrémně výkonná grafická karta pro pracovní stanice HP Z4/Z8 G4, PCIe 3.0 , architektura Turing, 4608 CUDA, 24 GB GDDR6 paměti, 4x DisplayPort, VirtualLink, maximální rozlišení 2x 7680 x 4320 @ 60 Hz, OpenGL 4.6, Shader Model 5.1, DirectX 12, Vulkan 1.1, NVIDIA NVLink, profesionální 3D podpora.",109 990 Kč,0
